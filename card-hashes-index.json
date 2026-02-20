@@ -1,0 +1,234 @@
+{
+  "gridSize": 64,
+  "totalCards": 3350,
+  "series": [
+    {
+      "code": "ASC",
+      "name": "Héros Transcendants",
+      "cardCount": 117,
+      "file": "card-hashes/card-hashes-ASC.json"
+    },
+    {
+      "code": "PFL",
+      "name": "Flammes Fantasmagoriques",
+      "cardCount": 46,
+      "file": "card-hashes/card-hashes-PFL.json"
+    },
+    {
+      "code": "MEG",
+      "name": "Méga-Évolution",
+      "cardCount": 66,
+      "file": "card-hashes/card-hashes-MEG.json"
+    },
+    {
+      "code": "WHT",
+      "name": "Foudre Noire",
+      "cardCount": 93,
+      "file": "card-hashes/card-hashes-WHT.json"
+    },
+    {
+      "code": "BLK",
+      "name": "Flamme Blanche",
+      "cardCount": 92,
+      "file": "card-hashes/card-hashes-BLK.json"
+    },
+    {
+      "code": "DRI",
+      "name": "Rivalités Destinées",
+      "cardCount": 79,
+      "file": "card-hashes/card-hashes-DRI.json"
+    },
+    {
+      "code": "JTG",
+      "name": "Aventures Ensemble",
+      "cardCount": 47,
+      "file": "card-hashes/card-hashes-JTG.json"
+    },
+    {
+      "code": "PRE",
+      "name": "Évolutions Prismatiques",
+      "cardCount": 80,
+      "file": "card-hashes/card-hashes-PRE.json"
+    },
+    {
+      "code": "SSP",
+      "name": "Étincelles Déferlantes",
+      "cardCount": 87,
+      "file": "card-hashes/card-hashes-SSP.json"
+    },
+    {
+      "code": "SCR",
+      "name": "Couronne Stellaire",
+      "cardCount": 50,
+      "file": "card-hashes/card-hashes-SCR.json"
+    },
+    {
+      "code": "SFA",
+      "name": "Fable Nébuleuse",
+      "cardCount": 44,
+      "file": "card-hashes/card-hashes-SFA.json"
+    },
+    {
+      "code": "TWM",
+      "name": "Mascarade Crépusculaire",
+      "cardCount": 79,
+      "file": "card-hashes/card-hashes-TWM.json"
+    },
+    {
+      "code": "TEF",
+      "name": "Forces Temporelles",
+      "cardCount": 78,
+      "file": "card-hashes/card-hashes-TEF.json"
+    },
+    {
+      "code": "PAF",
+      "name": "Destinées de Paldea",
+      "cardCount": 164,
+      "file": "card-hashes/card-hashes-PAF.json"
+    },
+    {
+      "code": "PAR",
+      "name": "Faille Paradoxe",
+      "cardCount": 104,
+      "file": "card-hashes/card-hashes-PAR.json"
+    },
+    {
+      "code": "MEW",
+      "name": "151",
+      "cardCount": 54,
+      "file": "card-hashes/card-hashes-MEW.json"
+    },
+    {
+      "code": "OBF",
+      "name": "Flammes Obsidiennes",
+      "cardCount": 54,
+      "file": "card-hashes/card-hashes-OBF.json"
+    },
+    {
+      "code": "PAL",
+      "name": "Évolutions à Paldea",
+      "cardCount": 103,
+      "file": "card-hashes/card-hashes-PAL.json"
+    },
+    {
+      "code": "SVI",
+      "name": "Écarlate et Violet",
+      "cardCount": 72,
+      "file": "card-hashes/card-hashes-SVI.json"
+    },
+    {
+      "code": "SVP",
+      "name": "Promos Écarlate et Violet",
+      "cardCount": 225,
+      "file": "card-hashes/card-hashes-SVP.json"
+    },
+    {
+      "code": "CRZ",
+      "name": "Zénith Suprême",
+      "cardCount": 117,
+      "file": "card-hashes/card-hashes-CRZ.json"
+    },
+    {
+      "code": "SIT",
+      "name": "Tempête Argentée",
+      "cardCount": 101,
+      "file": "card-hashes/card-hashes-SIT.json"
+    },
+    {
+      "code": "LOR",
+      "name": "Origine Perdue",
+      "cardCount": 98,
+      "file": "card-hashes/card-hashes-LOR.json"
+    },
+    {
+      "code": "PGO",
+      "name": "Pokémon GO",
+      "cardCount": 30,
+      "file": "card-hashes/card-hashes-PGO.json"
+    },
+    {
+      "code": "ASR",
+      "name": "Astres Radieux",
+      "cardCount": 118,
+      "file": "card-hashes/card-hashes-ASR.json"
+    },
+    {
+      "code": "BRS",
+      "name": "Stars Étincelantes",
+      "cardCount": 92,
+      "file": "card-hashes/card-hashes-BRS.json"
+    },
+    {
+      "code": "FST",
+      "name": "Poing de Fusion",
+      "cardCount": 67,
+      "file": "card-hashes/card-hashes-FST.json"
+    },
+    {
+      "code": "CEL",
+      "name": "Célébrations",
+      "cardCount": 33,
+      "file": "card-hashes/card-hashes-CEL.json"
+    },
+    {
+      "code": "EVS",
+      "name": "Évolution Céleste",
+      "cardCount": 105,
+      "file": "card-hashes/card-hashes-EVS.json"
+    },
+    {
+      "code": "CRE",
+      "name": "Règne de Glace",
+      "cardCount": 97,
+      "file": "card-hashes/card-hashes-CRE.json"
+    },
+    {
+      "code": "BST",
+      "name": "Styles de Combat",
+      "cardCount": 60,
+      "file": "card-hashes/card-hashes-BST.json"
+    },
+    {
+      "code": "SHF",
+      "name": "Destinées Radieuses",
+      "cardCount": 149,
+      "file": "card-hashes/card-hashes-SHF.json"
+    },
+    {
+      "code": "VIV",
+      "name": "Voltage Éclatant",
+      "cardCount": 61,
+      "file": "card-hashes/card-hashes-VIV.json"
+    },
+    {
+      "code": "CPA",
+      "name": "La Voie du Maître",
+      "cardCount": 26,
+      "file": "card-hashes/card-hashes-CPA.json"
+    },
+    {
+      "code": "DAA",
+      "name": "Ténèbres Embrasées",
+      "cardCount": 46,
+      "file": "card-hashes/card-hashes-DAA.json"
+    },
+    {
+      "code": "RCL",
+      "name": "Clash des Rebelles",
+      "cardCount": 58,
+      "file": "card-hashes/card-hashes-RCL.json"
+    },
+    {
+      "code": "SSH",
+      "name": "Épée et Bouclier",
+      "cardCount": 51,
+      "file": "card-hashes/card-hashes-SSH.json"
+    },
+    {
+      "code": "SWSH",
+      "name": "Promos Épée et Bouclier",
+      "cardCount": 307,
+      "file": "card-hashes/card-hashes-SWSH.json"
+    }
+  ]
+}
