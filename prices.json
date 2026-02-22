@@ -2001,7 +2001,7 @@
     "series": "MEW",
     "number": "173",
     "cardName": "Pikachu",
-    "avgPrice": 61.25
+    "avgPrice": 58.87
   },
   "MEW174": {
     "series": "MEW",
@@ -6398,8 +6398,8 @@
   "ASC010": {
     "series": "ASC",
     "number": "010",
-    "cardName": "",
-    "avgPrice": 0.04
+    "cardName": "Mega Méganium ex",
+    "avgPrice": 2.9
   },
   "ASC022": {
     "series": "ASC",
@@ -6548,8 +6548,8 @@
   "ASC152": {
     "series": "ASC",
     "number": "152",
-    "cardName": "",
-    "avgPrice": 0.04
+    "cardName": "Mega Dracolosse ex",
+    "avgPrice": 5.0
   },
   "ASC162": {
     "series": "ASC",
@@ -6782,8 +6782,8 @@
   "ASC269": {
     "series": "ASC",
     "number": "269",
-    "cardName": "",
-    "avgPrice": 0.04
+    "cardName": "Mega Ectoplasma ex",
+    "avgPrice": 28.87
   },
   "ASC271": {
     "series": "ASC",
@@ -6838,5 +6838,101 @@
     "number": "279",
     "cardName": "Ampibidou ex de Mashynn",
     "avgPrice": 54.25
+  },
+  "DRI226": {
+    "series": "DRI",
+    "number": "226",
+    "cardName": "Lambda de la Team Rocket",
+    "avgPrice": 7.86
+  },
+  "PAL252": {
+    "series": "PAL",
+    "number": "252",
+    "cardName": "Brome",
+    "avgPrice": 1.4
+  },
+  "ASR114": {
+    "series": "ASR",
+    "number": "114",
+    "cardName": "Dialga Originel VSTAR",
+    "avgPrice": 2.35
+  },
+  "FST114": {
+    "series": "FST",
+    "number": "114",
+    "cardName": "Mew VMAX",
+    "avgPrice": 6.99
+  },
+  "PAL216": {
+    "series": "PAL",
+    "number": "216",
+    "cardName": "Forgerette",
+    "avgPrice": 6.92
+  },
+  "CRZGG65": {
+    "series": "CRZ",
+    "number": "GG65",
+    "cardName": "Roy",
+    "avgPrice": 6.85
+  },
+  "PAF158": {
+    "series": "PAF",
+    "number": "158",
+    "cardName": "Spiritomb",
+    "avgPrice": 5.3
+  },
+  "SVP168": {
+    "series": "SVP",
+    "number": "168",
+    "cardName": "Aquali",
+    "avgPrice": 0.14
+  },
+  "PAR233": {
+    "series": "PAR",
+    "number": "233",
+    "cardName": "Famignol ex",
+    "avgPrice": 4.47
+  },
+  "PAR140": {
+    "series": "PAR",
+    "number": "140",
+    "cardName": "Altaria ex",
+    "avgPrice": 0.83
+  },
+  "SWSH115": {
+    "series": "SWSH",
+    "number": "115",
+    "cardName": "Quartermac",
+    "avgPrice": 39.5
+  },
+  "PRE092": {
+    "series": "PRE",
+    "number": "092",
+    "cardName": "Terapagos ex",
+    "avgPrice": 0.99
+  },
+  "PAR243": {
+    "series": "PAR",
+    "number": "243",
+    "cardName": "Anis",
+    "avgPrice": 1.9
+  },
+  "PAR214": {
+    "series": "PAR",
+    "number": "214",
+    "cardName": "Porygon-Z",
+    "avgPrice": 9.25
+  },
+  "SVP187": {
+    "series": "SVP",
+    "number": "187",
+    "cardName": "Yanmega",
+    "avgPrice": 0.02
+  },
+  "BRS088": {
+    "series": "BRS",
+    "number": "088",
+    "cardName": "Corboss V",
+    "avgPrice": 0.94
   }
 }
