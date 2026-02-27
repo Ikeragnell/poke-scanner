@@ -1,1 +1,0 @@
-Pokemon card scanner based on https://github.com/Nekoraru22/riftbound-scanner/
