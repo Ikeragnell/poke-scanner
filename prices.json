@@ -3,7 +3,7 @@
     "series": "ASC",
     "number": "003",
     "cardName": "Rafflesia de Erika ex",
-    "avgPrice": 1.4
+    "avgPrice": 1.03
   },
   "ASC010": {
     "series": "ASC",
@@ -15,7 +15,7 @@
     "series": "ASC",
     "number": "022",
     "cardName": "Mega Dracaufeu Y ex",
-    "avgPrice": 10.0
+    "avgPrice": 8.0
   },
   "ASC026": {
     "series": "ASC",
@@ -129,7 +129,7 @@
     "series": "ASC",
     "number": "113",
     "cardName": "Mega Lucario ex",
-    "avgPrice": 1.29
+    "avgPrice": 1.12
   },
   "ASC114": {
     "series": "ASC",
@@ -153,7 +153,7 @@
     "series": "ASC",
     "number": "125",
     "cardName": "Mega Ectoplasma ex",
-    "avgPrice": 1.25
+    "avgPrice": 0.96
   },
   "ASC135": {
     "series": "ASC",
@@ -176,8 +176,20 @@
   "ASC142": {
     "series": "ASC",
     "number": "142",
-    "cardName": "",
-    "avgPrice": 2.16
+    "cardName": "Favianos ex",
+    "avgPrice": 1.99
+  },
+  "ASC145": {
+    "series": "ASC",
+    "number": "145",
+    "cardName": "Registeel ex",
+    "avgPrice": 0.1
+  },
+  "ASC149": {
+    "series": "ASC",
+    "number": "149",
+    "cardName": "Togedemaru ex",
+    "avgPrice": 0.43
   },
   "ASC152": {
     "series": "ASC",
@@ -441,7 +453,7 @@
     "series": "ASC",
     "number": "254",
     "cardName": "Vénus &amp; Colombe",
-    "avgPrice": 3.3
+    "avgPrice": 2.81
   },
   "ASC255": {
     "series": "ASC",
@@ -452,8 +464,14 @@
   "ASC256": {
     "series": "ASC",
     "number": "256",
-    "cardName": "",
-    "avgPrice": 10.0
+    "cardName": "Ordres du Boss - Corvault",
+    "avgPrice": 7.2
+  },
+  "ASC257": {
+    "series": "ASC",
+    "number": "257",
+    "cardName": "Narica",
+    "avgPrice": 4.82
   },
   "ASC258": {
     "series": "ASC",
@@ -466,6 +484,12 @@
     "number": "259",
     "cardName": "Rattrape-Riposte",
     "avgPrice": 0.95
+  },
+  "ASC260": {
+    "series": "ASC",
+    "number": "260",
+    "cardName": "Trompette de Verre",
+    "avgPrice": 1.89
   },
   "ASC261": {
     "series": "ASC",
@@ -581,6 +605,48 @@
     "cardName": "Ampibidou ex de Mashynn",
     "avgPrice": 54.25
   },
+  "ASC280": {
+    "series": "ASC",
+    "number": "280",
+    "cardName": "Mélofée ex de Lilie",
+    "avgPrice": 103.0
+  },
+  "ASC281": {
+    "series": "ASC",
+    "number": "281",
+    "cardName": "Mewtwo ex de la Team Rocket",
+    "avgPrice": 297.5
+  },
+  "ASC282": {
+    "series": "ASC",
+    "number": "282",
+    "cardName": "Mega Diancie ex",
+    "avgPrice": 50.48
+  },
+  "ASC283": {
+    "series": "ASC",
+    "number": "283",
+    "cardName": "Mega Brutalibré ex",
+    "avgPrice": 57.5
+  },
+  "ASC284": {
+    "series": "ASC",
+    "number": "284",
+    "cardName": "Mega Ectoplasma ex",
+    "avgPrice": 467.5
+  },
+  "ASC285": {
+    "series": "ASC",
+    "number": "285",
+    "cardName": "Mega Baggaïd ex",
+    "avgPrice": 46.94
+  },
+  "ASC286": {
+    "series": "ASC",
+    "number": "286",
+    "cardName": "Zoroark ex de N",
+    "avgPrice": 107.98
+  },
   "ASC287": {
     "series": "ASC",
     "number": "287",
@@ -592,6 +658,42 @@
     "number": "288",
     "cardName": "Favianos ex",
     "avgPrice": 48.12
+  },
+  "ASC290": {
+    "series": "ASC",
+    "number": "290",
+    "cardName": "Mega Dracolosse ex",
+    "avgPrice": 314.73
+  },
+  "ASC291": {
+    "series": "ASC",
+    "number": "291",
+    "cardName": "Narica",
+    "avgPrice": 29.0
+  },
+  "ASC292": {
+    "series": "ASC",
+    "number": "292",
+    "cardName": "Esprit Combatif d'Iris",
+    "avgPrice": 39.0
+  },
+  "ASC293": {
+    "series": "ASC",
+    "number": "293",
+    "cardName": "Surfeur",
+    "avgPrice": 24.97
+  },
+  "ASC294": {
+    "series": "ASC",
+    "number": "294",
+    "cardName": "Mega Dracaufeu Y ex",
+    "avgPrice": 371.12
+  },
+  "ASC295": {
+    "series": "ASC",
+    "number": "295",
+    "cardName": "Mega Dracolosse ex",
+    "avgPrice": 346.67
   },
   "ASR030": {
     "series": "ASR",
@@ -627,7 +729,7 @@
     "series": "ASR",
     "number": "098",
     "cardName": "Darkrai V",
-    "avgPrice": 1.43
+    "avgPrice": 1.41
   },
   "ASR101": {
     "series": "ASR",
@@ -681,25 +783,31 @@
     "series": "ASR",
     "number": "TG11",
     "cardName": "Archéodong",
-    "avgPrice": 2.39
+    "avgPrice": 2.27
   },
   "ASRTG12": {
     "series": "ASR",
     "number": "TG12",
     "cardName": "Hoothoot",
-    "avgPrice": 3.38
+    "avgPrice": 3.33
   },
   "ASRTG16": {
     "series": "ASR",
     "number": "TG16",
     "cardName": "Artikodin de Galar V",
-    "avgPrice": 14.35
+    "avgPrice": 13.88
+  },
+  "ASRTG29": {
+    "series": "ASR",
+    "number": "TG29",
+    "cardName": "Sylveroy Cavalier du Froid VMAX",
+    "avgPrice": 4.86
   },
   "BLK003": {
     "series": "BLK",
     "number": "003",
-    "cardName": "",
-    "avgPrice": 12.61
+    "cardName": "Majaspic ex",
+    "avgPrice": 0.1
   },
   "BLK028": {
     "series": "BLK",
@@ -723,49 +831,49 @@
     "series": "BLK",
     "number": "046",
     "cardName": "Minotaupe ex",
-    "avgPrice": 0.11
+    "avgPrice": 0.1
   },
   "BLK067": {
     "series": "BLK",
     "number": "067",
     "cardName": "Genesect ex",
-    "avgPrice": 0.15
+    "avgPrice": 0.14
   },
   "BLK087": {
     "series": "BLK",
     "number": "087",
     "cardName": "Vipélierre",
-    "avgPrice": 17.45
+    "avgPrice": 16.99
   },
   "BLK088": {
     "series": "BLK",
     "number": "088",
     "cardName": "Lianaja",
-    "avgPrice": 10.2
+    "avgPrice": 9.95
   },
   "BLK089": {
     "series": "BLK",
     "number": "089",
     "cardName": "Feuillajou",
-    "avgPrice": 10.87
+    "avgPrice": 10.99
   },
   "BLK090": {
     "series": "BLK",
     "number": "090",
     "cardName": "Feuiloutan",
-    "avgPrice": 6.65
+    "avgPrice": 6.33
   },
   "BLK091": {
     "series": "BLK",
     "number": "091",
     "cardName": "Chlorobule",
-    "avgPrice": 7.33
+    "avgPrice": 7.58
   },
   "BLK092": {
     "series": "BLK",
     "number": "092",
     "cardName": "Fragilady",
-    "avgPrice": 23.49
+    "avgPrice": 23.5
   },
   "BLK093": {
     "series": "BLK",
@@ -777,31 +885,31 @@
     "series": "BLK",
     "number": "094",
     "cardName": "Carabing",
-    "avgPrice": 11.22
+    "avgPrice": 10.34
   },
   "BLK095": {
     "series": "BLK",
     "number": "095",
     "cardName": "Trompignon",
-    "avgPrice": 9.33
+    "avgPrice": 9.74
   },
   "BLK096": {
     "series": "BLK",
     "number": "096",
     "cardName": "Gaulet",
-    "avgPrice": 15.47
+    "avgPrice": 15.12
   },
   "BLK097": {
     "series": "BLK",
     "number": "097",
     "cardName": "Darumarond",
-    "avgPrice": 7.0
+    "avgPrice": 7.06
   },
   "BLK098": {
     "series": "BLK",
     "number": "098",
     "cardName": "Darumacho",
-    "avgPrice": 8.25
+    "avgPrice": 8.5
   },
   "BLK099": {
     "series": "BLK",
@@ -831,13 +939,13 @@
     "series": "BLK",
     "number": "103",
     "cardName": "Tritonde",
-    "avgPrice": 6.5
+    "avgPrice": 6.0
   },
   "BLK104": {
     "series": "BLK",
     "number": "104",
     "cardName": "Batracné",
-    "avgPrice": 9.07
+    "avgPrice": 8.95
   },
   "BLK105": {
     "series": "BLK",
@@ -849,7 +957,7 @@
     "series": "BLK",
     "number": "106",
     "cardName": "Carapagos",
-    "avgPrice": 12.75
+    "avgPrice": 13.22
   },
   "BLK107": {
     "series": "BLK",
@@ -867,37 +975,37 @@
     "series": "BLK",
     "number": "109",
     "cardName": "Polarhume",
-    "avgPrice": 10.64
+    "avgPrice": 11.42
   },
   "BLK110": {
     "series": "BLK",
     "number": "110",
     "cardName": "Polagriffe",
-    "avgPrice": 5.67
+    "avgPrice": 5.89
   },
   "BLK111": {
     "series": "BLK",
     "number": "111",
     "cardName": "Hexagel",
-    "avgPrice": 7.67
+    "avgPrice": 7.61
   },
   "BLK112": {
     "series": "BLK",
     "number": "112",
     "cardName": "Emolga",
-    "avgPrice": 8.0
+    "avgPrice": 7.75
   },
   "BLK113": {
     "series": "BLK",
     "number": "113",
-    "cardName": "Anchwatt",
-    "avgPrice": 13.62
+    "cardName": "Lampéroie",
+    "avgPrice": 22.07
   },
   "BLK114": {
     "series": "BLK",
     "number": "114",
-    "cardName": "Lampéroie",
-    "avgPrice": 20.57
+    "cardName": "Ohmassacre",
+    "avgPrice": 17.35
   },
   "BLK115": {
     "series": "BLK",
@@ -908,7 +1016,7 @@
   "BLK116": {
     "series": "BLK",
     "number": "116",
-    "cardName": "",
+    "cardName": "Munna",
     "avgPrice": 7.11
   },
   "BLK117": {
@@ -921,19 +1029,19 @@
     "series": "BLK",
     "number": "118",
     "cardName": "Nucléos",
-    "avgPrice": 18.1
+    "avgPrice": 17.85
   },
   "BLK119": {
     "series": "BLK",
     "number": "119",
     "cardName": "Méios",
-    "avgPrice": 8.22
+    "avgPrice": 7.99
   },
   "BLK120": {
     "series": "BLK",
     "number": "120",
     "cardName": "Lewsor",
-    "avgPrice": 6.38
+    "avgPrice": 7.66
   },
   "BLK121": {
     "series": "BLK",
@@ -945,13 +1053,13 @@
     "series": "BLK",
     "number": "122",
     "cardName": "Gringolem",
-    "avgPrice": 4.79
+    "avgPrice": 5.22
   },
   "BLK123": {
     "series": "BLK",
     "number": "123",
     "cardName": "Golemastoc",
-    "avgPrice": 7.88
+    "avgPrice": 7.66
   },
   "BLK124": {
     "series": "BLK",
@@ -963,49 +1071,49 @@
     "series": "BLK",
     "number": "125",
     "cardName": "Charpenti",
-    "avgPrice": 23.62
+    "avgPrice": 22.87
   },
   "BLK126": {
     "series": "BLK",
     "number": "126",
     "cardName": "Ouvrifier",
-    "avgPrice": 6.37
+    "avgPrice": 6.5
   },
   "BLK127": {
     "series": "BLK",
     "number": "127",
     "cardName": "Bétochef",
-    "avgPrice": 27.25
+    "avgPrice": 24.12
   },
   "BLK128": {
     "series": "BLK",
     "number": "128",
     "cardName": "Judokrak",
-    "avgPrice": 6.3
+    "avgPrice": 5.22
   },
   "BLK129": {
     "series": "BLK",
     "number": "129",
-    "cardName": "",
-    "avgPrice": 10.13
+    "cardName": "Crabicoque",
+    "avgPrice": 11.97
   },
   "BLK130": {
     "series": "BLK",
     "number": "130",
     "cardName": "Crabaraque",
-    "avgPrice": 5.56
+    "avgPrice": 5.7
   },
   "BLK131": {
     "series": "BLK",
     "number": "131",
     "cardName": "Démétéros",
-    "avgPrice": 24.25
+    "avgPrice": 25.5
   },
   "BLK132": {
     "series": "BLK",
     "number": "132",
     "cardName": "Venipatte",
-    "avgPrice": 6.9
+    "avgPrice": 6.92
   },
   "BLK133": {
     "series": "BLK",
@@ -1017,31 +1125,31 @@
     "series": "BLK",
     "number": "134",
     "cardName": "Brutapode",
-    "avgPrice": 27.75
+    "avgPrice": 26.5
   },
   "BLK135": {
     "series": "BLK",
     "number": "135",
     "cardName": "Mascaïman",
-    "avgPrice": 6.95
+    "avgPrice": 7.22
   },
   "BLK136": {
     "series": "BLK",
     "number": "136",
     "cardName": "Escroco",
-    "avgPrice": 7.2
+    "avgPrice": 7.83
   },
   "BLK137": {
     "series": "BLK",
     "number": "137",
     "cardName": "Crocorible",
-    "avgPrice": 23.7
+    "avgPrice": 23.57
   },
   "BLK138": {
     "series": "BLK",
     "number": "138",
     "cardName": "Lançargot",
-    "avgPrice": 18.0
+    "avgPrice": 18.74
   },
   "BLK139": {
     "series": "BLK",
@@ -1053,13 +1161,13 @@
     "series": "BLK",
     "number": "140",
     "cardName": "Clic",
-    "avgPrice": 5.86
+    "avgPrice": 5.83
   },
   "BLK141": {
     "series": "BLK",
     "number": "141",
     "cardName": "Cliticlic",
-    "avgPrice": 20.99
+    "avgPrice": 19.5
   },
   "BLK142": {
     "series": "BLK",
@@ -1071,13 +1179,13 @@
     "series": "BLK",
     "number": "143",
     "cardName": "Scalproie",
-    "avgPrice": 7.87
+    "avgPrice": 7.2
   },
   "BLK144": {
     "series": "BLK",
     "number": "144",
     "cardName": "Cobaltium",
-    "avgPrice": 36.66
+    "avgPrice": 32.75
   },
   "BLK145": {
     "series": "BLK",
@@ -1089,31 +1197,31 @@
     "series": "BLK",
     "number": "146",
     "cardName": "Incisache",
-    "avgPrice": 20.0
+    "avgPrice": 19.49
   },
   "BLK147": {
     "series": "BLK",
     "number": "147",
     "cardName": "Tranchodon",
-    "avgPrice": 31.25
+    "avgPrice": 30.12
   },
   "BLK148": {
     "series": "BLK",
     "number": "148",
     "cardName": "Poichigeon",
-    "avgPrice": 7.87
+    "avgPrice": 7.24
   },
   "BLK149": {
     "series": "BLK",
     "number": "149",
     "cardName": "Colombeau",
-    "avgPrice": 5.25
+    "avgPrice": 5.12
   },
   "BLK150": {
     "series": "BLK",
     "number": "150",
     "cardName": "Déflaisan",
-    "avgPrice": 18.99
+    "avgPrice": 19.24
   },
   "BLK151": {
     "series": "BLK",
@@ -1125,13 +1233,13 @@
     "series": "BLK",
     "number": "152",
     "cardName": "Chinchidou",
-    "avgPrice": 6.97
+    "avgPrice": 7.0
   },
   "BLK153": {
     "series": "BLK",
     "number": "153",
     "cardName": "Pashmilla",
-    "avgPrice": 6.6
+    "avgPrice": 6.47
   },
   "BLK154": {
     "series": "BLK",
@@ -1143,49 +1251,49 @@
     "series": "BLK",
     "number": "155",
     "cardName": "Gueriaigle",
-    "avgPrice": 6.94
+    "avgPrice": 7.19
   },
   "BLK156": {
     "series": "BLK",
     "number": "156",
     "cardName": "Majaspic ex",
-    "avgPrice": 0.97
+    "avgPrice": 1.0
   },
   "BLK157": {
     "series": "BLK",
     "number": "157",
     "cardName": "Kyurem ex",
-    "avgPrice": 1.45
+    "avgPrice": 1.52
   },
   "BLK158": {
     "series": "BLK",
     "number": "158",
     "cardName": "Zekrom ex",
-    "avgPrice": 2.96
+    "avgPrice": 3.17
   },
   "BLK159": {
     "series": "BLK",
     "number": "159",
     "cardName": "Meloetta ex",
-    "avgPrice": 1.0
+    "avgPrice": 0.97
   },
   "BLK160": {
     "series": "BLK",
     "number": "160",
     "cardName": "Minotaupe ex",
-    "avgPrice": 0.99
+    "avgPrice": 0.97
   },
   "BLK161": {
     "series": "BLK",
     "number": "161",
     "cardName": "Genesect ex",
-    "avgPrice": 1.37
+    "avgPrice": 1.42
   },
   "BLK162": {
     "series": "BLK",
     "number": "162",
     "cardName": "Oryse",
-    "avgPrice": 0.95
+    "avgPrice": 0.92
   },
   "BLK163": {
     "series": "BLK",
@@ -1203,31 +1311,31 @@
     "series": "BLK",
     "number": "165",
     "cardName": "Kyurem ex",
-    "avgPrice": 69.75
+    "avgPrice": 70.75
   },
   "BLK166": {
     "series": "BLK",
     "number": "166",
     "cardName": "Zekrom ex",
-    "avgPrice": 164.75
+    "avgPrice": 168.5
   },
   "BLK167": {
     "series": "BLK",
     "number": "167",
     "cardName": "Meloetta ex",
-    "avgPrice": 34.21
+    "avgPrice": 31.99
   },
   "BLK168": {
     "series": "BLK",
     "number": "168",
     "cardName": "Minotaupe ex",
-    "avgPrice": 21.62
+    "avgPrice": 20.37
   },
   "BLK169": {
     "series": "BLK",
     "number": "169",
     "cardName": "Genesect ex",
-    "avgPrice": 30.62
+    "avgPrice": 31.25
   },
   "BLK170": {
     "series": "BLK",
@@ -1239,13 +1347,13 @@
     "series": "BLK",
     "number": "171",
     "cardName": "Victini",
-    "avgPrice": 255.25
+    "avgPrice": 262.75
   },
   "BLK172": {
     "series": "BLK",
     "number": "172",
     "cardName": "Zekrom ex",
-    "avgPrice": 293.45
+    "avgPrice": 287.23
   },
   "BRS017": {
     "series": "BRS",
@@ -1263,19 +1371,19 @@
     "series": "BRS",
     "number": "029",
     "cardName": "Krabboss VMAX",
-    "avgPrice": 2.0
+    "avgPrice": 1.97
   },
   "BRS045": {
     "series": "BRS",
     "number": "045",
     "cardName": "Raichu V",
-    "avgPrice": 1.8
+    "avgPrice": 1.72
   },
   "BRS048": {
     "series": "BRS",
     "number": "048",
     "cardName": "Raikou V",
-    "avgPrice": 1.25
+    "avgPrice": 1.66
   },
   "BRS064": {
     "series": "BRS",
@@ -1347,7 +1455,7 @@
     "series": "BRS",
     "number": "165",
     "cardName": "Arceus V",
-    "avgPrice": 9.71
+    "avgPrice": 10.5
   },
   "BRS181": {
     "series": "BRS",
@@ -1359,13 +1467,13 @@
     "series": "BRS",
     "number": "182",
     "cardName": "Électhor de Galar V",
-    "avgPrice": 17.74
+    "avgPrice": 17.37
   },
   "BRSTG01": {
     "series": "BRS",
     "number": "TG01",
     "cardName": "Pyroli",
-    "avgPrice": 11.0
+    "avgPrice": 10.21
   },
   "BRSTG02": {
     "series": "BRS",
@@ -1389,19 +1497,19 @@
     "series": "BRS",
     "number": "TG06",
     "cardName": "Noctunoir",
-    "avgPrice": 2.52
+    "avgPrice": 2.38
   },
   "BRSTG08": {
     "series": "BRS",
     "number": "TG08",
     "cardName": "Charmilly",
-    "avgPrice": 1.75
+    "avgPrice": 2.0
   },
   "BRSTG09": {
     "series": "BRS",
     "number": "TG09",
     "cardName": "Migalos",
-    "avgPrice": 1.98
+    "avgPrice": 2.0
   },
   "BRSTG10": {
     "series": "BRS",
@@ -1419,7 +1527,7 @@
     "series": "BRS",
     "number": "TG12",
     "cardName": "Gouroutan",
-    "avgPrice": 3.74
+    "avgPrice": 1.99
   },
   "BRSTG17": {
     "series": "BRS",
@@ -1431,7 +1539,7 @@
     "series": "BRS",
     "number": "TG19",
     "cardName": "Shifours Poing Final VMAX",
-    "avgPrice": 11.97
+    "avgPrice": 11.6
   },
   "BRSTG22": {
     "series": "BRS",
@@ -1445,11 +1553,23 @@
     "cardName": "Barista",
     "avgPrice": 2.8
   },
+  "BRSTG27": {
+    "series": "BRS",
+    "number": "TG27",
+    "cardName": "Mustar Style Mille Poings",
+    "avgPrice": 2.25
+  },
   "BRSTG29": {
     "series": "BRS",
     "number": "TG29",
     "cardName": "Shifours Poing Final VMAX",
     "avgPrice": 3.67
+  },
+  "BST097": {
+    "series": "BST",
+    "number": "097",
+    "cardName": "Tyranocif V",
+    "avgPrice": 1.22
   },
   "BST110": {
     "series": "BST",
@@ -1475,11 +1595,17 @@
     "cardName": "Pikachu Volant VMAX",
     "avgPrice": 4.99
   },
+  "CEL009": {
+    "series": "CEL",
+    "number": "009",
+    "cardName": "Pikachu Surfeur VMAX",
+    "avgPrice": 5.4
+  },
   "CRE025": {
     "series": "CRE",
     "number": "025",
     "cardName": "Volcanion V",
-    "avgPrice": 1.91
+    "avgPrice": 1.81
   },
   "CRE090": {
     "series": "CRE",
@@ -1515,13 +1641,13 @@
     "series": "CRE",
     "number": "222",
     "cardName": "Electrode",
-    "avgPrice": 26.37
+    "avgPrice": 26.25
   },
   "CRZ014": {
     "series": "CRZ",
     "number": "014",
     "cardName": "Phyllali VSTAR",
-    "avgPrice": 4.98
+    "avgPrice": 5.0
   },
   "CRZ020": {
     "series": "CRZ",
@@ -1551,7 +1677,7 @@
     "series": "CRZ",
     "number": "096",
     "cardName": "Zacian VSTAR",
-    "avgPrice": 2.5
+    "avgPrice": 2.88
   },
   "CRZGG01": {
     "series": "CRZ",
@@ -1647,7 +1773,7 @@
     "series": "CRZ",
     "number": "GG37",
     "cardName": "Flamoutan VSTAR",
-    "avgPrice": 17.5
+    "avgPrice": 17.25
   },
   "CRZGG38": {
     "series": "CRZ",
@@ -1701,7 +1827,7 @@
     "series": "CRZ",
     "number": "GG63",
     "cardName": "Nacchara",
-    "avgPrice": 9.0
+    "avgPrice": 9.37
   },
   "CRZGG65": {
     "series": "CRZ",
@@ -1715,6 +1841,114 @@
     "cardName": "Arceus VSTAR",
     "avgPrice": 131.25
   },
+  "DRI003": {
+    "series": "DRI",
+    "number": "003",
+    "cardName": "Yanmega ex",
+    "avgPrice": 0.8
+  },
+  "DRI023": {
+    "series": "DRI",
+    "number": "023",
+    "cardName": "Arboliva ex",
+    "avgPrice": 0.5
+  },
+  "DRI025": {
+    "series": "DRI",
+    "number": "025",
+    "cardName": "Bérasca ex",
+    "avgPrice": 0.31
+  },
+  "DRI031": {
+    "series": "DRI",
+    "number": "031",
+    "cardName": "Sulfura ex de la Team Rocket",
+    "avgPrice": 0.86
+  },
+  "DRI039": {
+    "series": "DRI",
+    "number": "039",
+    "cardName": "Ho-Oh ex de Luth",
+    "avgPrice": 0.83
+  },
+  "DRI065": {
+    "series": "DRI",
+    "number": "065",
+    "cardName": "Balbalèze ex",
+    "avgPrice": 0.38
+  },
+  "DRI066": {
+    "series": "DRI",
+    "number": "066",
+    "cardName": "Oyacata ex",
+    "avgPrice": 0.27
+  },
+  "DRI069": {
+    "series": "DRI",
+    "number": "069",
+    "cardName": "Élekable ex",
+    "avgPrice": 0.68
+  },
+  "DRI081": {
+    "series": "DRI",
+    "number": "081",
+    "cardName": "Mewtwo ex de la Team Rocket",
+    "avgPrice": 0.98
+  },
+  "DRI101": {
+    "series": "DRI",
+    "number": "101",
+    "cardName": "Regirock ex",
+    "avgPrice": 0.38
+  },
+  "DRI104": {
+    "series": "DRI",
+    "number": "104",
+    "cardName": "Carchacrok ex de Cynthia",
+    "avgPrice": 0.8
+  },
+  "DRI119": {
+    "series": "DRI",
+    "number": "119",
+    "cardName": "Nidoking ex de la Team Rocket",
+    "avgPrice": 0.5
+  },
+  "DRI122": {
+    "series": "DRI",
+    "number": "122",
+    "cardName": "Nostenfer ex de la Team Rocket",
+    "avgPrice": 0.49
+  },
+  "DRI136": {
+    "series": "DRI",
+    "number": "136",
+    "cardName": "Angoliath ex de Rosemary",
+    "avgPrice": 0.67
+  },
+  "DRI139": {
+    "series": "DRI",
+    "number": "139",
+    "cardName": "Dogrino ex de Pepper",
+    "avgPrice": 0.27
+  },
+  "DRI145": {
+    "series": "DRI",
+    "number": "145",
+    "cardName": "Métalosse ex de Pierre",
+    "avgPrice": 0.46
+  },
+  "DRI150": {
+    "series": "DRI",
+    "number": "150",
+    "cardName": "Persian ex de la Team Rocket",
+    "avgPrice": 0.7
+  },
+  "DRI183": {
+    "series": "DRI",
+    "number": "183",
+    "cardName": "Yanma",
+    "avgPrice": 4.97
+  },
   "DRI184": {
     "series": "DRI",
     "number": "184",
@@ -1725,7 +1959,7 @@
     "series": "DRI",
     "number": "185",
     "cardName": "Shaymin",
-    "avgPrice": 7.47
+    "avgPrice": 7.59
   },
   "DRI186": {
     "series": "DRI",
@@ -1737,85 +1971,115 @@
     "series": "DRI",
     "number": "187",
     "cardName": "Filentrappe de la Team Rocket",
-    "avgPrice": 6.3
+    "avgPrice": 6.31
   },
   "DRI188": {
     "series": "DRI",
     "number": "188",
     "cardName": "Pomdorochi",
-    "avgPrice": 3.0
+    "avgPrice": 2.94
+  },
+  "DRI189": {
+    "series": "DRI",
+    "number": "189",
+    "cardName": "Galopa",
+    "avgPrice": 8.95
   },
   "DRI190": {
     "series": "DRI",
     "number": "190",
     "cardName": "Typhlosion de Luth",
-    "avgPrice": 31.97
+    "avgPrice": 29.98
+  },
+  "DRI191": {
+    "series": "DRI",
+    "number": "191",
+    "cardName": "Démolosse de la Team Rocket",
+    "avgPrice": 19.0
   },
   "DRI192": {
     "series": "DRI",
     "number": "192",
     "cardName": "Braségali",
-    "avgPrice": 11.28
+    "avgPrice": 12.37
   },
   "DRI193": {
     "series": "DRI",
     "number": "193",
     "cardName": "Psykokwak de Ondine",
-    "avgPrice": 44.74
+    "avgPrice": 44.23
   },
   "DRI194": {
     "series": "DRI",
     "number": "194",
     "cardName": "Lokhlass de Ondine",
-    "avgPrice": 24.87
+    "avgPrice": 25.0
   },
   "DRI195": {
     "series": "DRI",
     "number": "195",
     "cardName": "Coquiperl",
-    "avgPrice": 4.0
+    "avgPrice": 3.96
   },
   "DRI196": {
     "series": "DRI",
     "number": "196",
     "cardName": "Dynavolt",
-    "avgPrice": 4.58
+    "avgPrice": 3.15
+  },
+  "DRI197": {
+    "series": "DRI",
+    "number": "197",
+    "cardName": "Motisma",
+    "avgPrice": 3.25
   },
   "DRI198": {
     "series": "DRI",
     "number": "198",
     "cardName": "Astronelle de la Team Rocket",
-    "avgPrice": 4.72
+    "avgPrice": 4.56
+  },
+  "DRI199": {
+    "series": "DRI",
+    "number": "199",
+    "cardName": "Smogogo de la Team Rocket",
+    "avgPrice": 10.0
   },
   "DRI200": {
     "series": "DRI",
     "number": "200",
     "cardName": "Cornèbre de la Team Rocket",
-    "avgPrice": 10.69
+    "avgPrice": 9.56
   },
   "DRI201": {
     "series": "DRI",
     "number": "201",
     "cardName": "Zamazenta",
-    "avgPrice": 7.0
+    "avgPrice": 6.75
   },
   "DRI202": {
     "series": "DRI",
     "number": "202",
     "cardName": "Rattatac de la Team Rocket",
-    "avgPrice": 8.99
+    "avgPrice": 8.87
   },
   "DRI203": {
     "series": "DRI",
     "number": "203",
     "cardName": "Miaouss de la Team Rocket",
-    "avgPrice": 27.23
+    "avgPrice": 26.85
   },
   "DRI204": {
     "series": "DRI",
     "number": "204",
     "cardName": "Kangourex",
-    "avgPrice": 8.62
+    "avgPrice": 9.0
+  },
+  "DRI205": {
+    "series": "DRI",
+    "number": "205",
+    "cardName": "Rongrigou de Pepper",
+    "avgPrice": 5.0
   },
   "DRI206": {
     "series": "DRI",
@@ -1823,41 +2087,65 @@
     "cardName": "Yanmega ex",
     "avgPrice": 2.96
   },
+  "DRI207": {
+    "series": "DRI",
+    "number": "207",
+    "cardName": "Arboliva ex",
+    "avgPrice": 4.1
+  },
   "DRI208": {
     "series": "DRI",
     "number": "208",
     "cardName": "Sulfura ex de la Team Rocket",
-    "avgPrice": 6.99
+    "avgPrice": 7.25
+  },
+  "DRI209": {
+    "series": "DRI",
+    "number": "209",
+    "cardName": "Ho-Oh ex de Luth",
+    "avgPrice": 9.21
   },
   "DRI210": {
     "series": "DRI",
     "number": "210",
     "cardName": "Balbalèze ex",
-    "avgPrice": 3.38
+    "avgPrice": 3.15
+  },
+  "DRI211": {
+    "series": "DRI",
+    "number": "211",
+    "cardName": "Oyacata ex",
+    "avgPrice": 2.6
   },
   "DRI212": {
     "series": "DRI",
     "number": "212",
     "cardName": "Élekable ex",
-    "avgPrice": 3.27
+    "avgPrice": 3.05
   },
   "DRI213": {
     "series": "DRI",
     "number": "213",
     "cardName": "Mewtwo ex de la Team Rocket",
-    "avgPrice": 21.0
+    "avgPrice": 20.75
   },
   "DRI214": {
     "series": "DRI",
     "number": "214",
     "cardName": "Regirock ex",
-    "avgPrice": 3.21
+    "avgPrice": 2.74
+  },
+  "DRI215": {
+    "series": "DRI",
+    "number": "215",
+    "cardName": "Carchacrok ex de Cynthia",
+    "avgPrice": 4.9
   },
   "DRI216": {
     "series": "DRI",
     "number": "216",
     "cardName": "Nidoking ex de la Team Rocket",
-    "avgPrice": 8.65
+    "avgPrice": 8.5
   },
   "DRI217": {
     "series": "DRI",
@@ -1869,25 +2157,31 @@
     "series": "DRI",
     "number": "218",
     "cardName": "Dogrino ex de Pepper",
-    "avgPrice": 2.85
+    "avgPrice": 2.79
   },
   "DRI219": {
     "series": "DRI",
     "number": "219",
     "cardName": "Persian ex de la Team Rocket",
-    "avgPrice": 7.24
+    "avgPrice": 7.22
+  },
+  "DRI220": {
+    "series": "DRI",
+    "number": "220",
+    "cardName": "Engouement de la MC",
+    "avgPrice": 4.97
   },
   "DRI223": {
     "series": "DRI",
     "number": "223",
     "cardName": "Amos de la Team Rocket",
-    "avgPrice": 4.52
+    "avgPrice": 4.32
   },
   "DRI225": {
     "series": "DRI",
     "number": "225",
     "cardName": "Giovanni de la Team Rocket",
-    "avgPrice": 9.86
+    "avgPrice": 10.37
   },
   "DRI226": {
     "series": "DRI",
@@ -1899,13 +2193,13 @@
     "series": "DRI",
     "number": "227",
     "cardName": "Lance de la Team Rocket",
-    "avgPrice": 3.99
+    "avgPrice": 4.33
   },
   "DRI229": {
     "series": "DRI",
     "number": "229",
     "cardName": "Sulfura ex de la Team Rocket",
-    "avgPrice": 200.0
+    "avgPrice": 205.0
   },
   "DRI233": {
     "series": "DRI",
@@ -1917,49 +2211,49 @@
     "series": "DRI",
     "number": "234",
     "cardName": "Nostenfer ex de la Team Rocket",
-    "avgPrice": 90.5
+    "avgPrice": 89.47
   },
   "DRI235": {
     "series": "DRI",
     "number": "235",
     "cardName": "Dogrino ex de Pepper",
-    "avgPrice": 41.22
+    "avgPrice": 43.23
   },
   "DRI236": {
     "series": "DRI",
     "number": "236",
     "cardName": "Aventure de Luth",
-    "avgPrice": 60.5
+    "avgPrice": 68.5
   },
   "DRI237": {
     "series": "DRI",
     "number": "237",
     "cardName": "Ariane de la Team Rocket",
-    "avgPrice": 44.75
+    "avgPrice": 42.75
   },
   "DRI239": {
     "series": "DRI",
     "number": "239",
     "cardName": "Ho-Oh ex de Luth",
-    "avgPrice": 44.25
+    "avgPrice": 46.5
   },
   "DRI240": {
     "series": "DRI",
     "number": "240",
     "cardName": "Mewtwo ex de la Team Rocket",
-    "avgPrice": 90.24
+    "avgPrice": 89.97
   },
   "DRI242": {
     "series": "DRI",
     "number": "242",
     "cardName": "Nostenfer ex de la Team Rocket",
-    "avgPrice": 36.25
+    "avgPrice": 35.5
   },
   "DRI243": {
     "series": "DRI",
     "number": "243",
     "cardName": "Tour de Brouillage",
-    "avgPrice": 28.48
+    "avgPrice": 25.75
   },
   "EVS041": {
     "series": "EVS",
@@ -1989,7 +2283,7 @@
     "series": "EVS",
     "number": "111",
     "cardName": "Rayquaza VMAX",
-    "avgPrice": 9.0
+    "avgPrice": 8.97
   },
   "EVS117": {
     "series": "EVS",
@@ -2009,6 +2303,12 @@
     "cardName": "Miasmax V",
     "avgPrice": 4.62
   },
+  "EVS200": {
+    "series": "EVS",
+    "number": "200",
+    "cardName": "Copieuse",
+    "avgPrice": 3.12
+  },
   "EVS203": {
     "series": "EVS",
     "number": "203",
@@ -2019,7 +2319,7 @@
     "series": "EVS",
     "number": "210",
     "cardName": "Galvagon VMAX",
-    "avgPrice": 13.0
+    "avgPrice": 11.75
   },
   "EVS216": {
     "series": "EVS",
@@ -2038,12 +2338,6 @@
     "number": "234",
     "cardName": "Stade de Greenbury",
     "avgPrice": 9.77
-  },
-  "FAV_PIKACHUSM115-19": {
-    "series": "FAV_Pikachu",
-    "number": "SM115-19",
-    "cardName": "Yveltal",
-    "avgPrice": 0.03
   },
   "FST026": {
     "series": "FST",
@@ -2075,11 +2369,23 @@
     "cardName": "Tyranocif V",
     "avgPrice": 1.92
   },
+  "FST185": {
+    "series": "FST",
+    "number": "185",
+    "cardName": "Genesect V",
+    "avgPrice": 0.5
+  },
   "FST247": {
     "series": "FST",
     "number": "247",
     "cardName": "Lugulabre V",
     "avgPrice": 3.8
+  },
+  "FST254": {
+    "series": "FST",
+    "number": "254",
+    "cardName": "Genesect V",
+    "avgPrice": 5.7
   },
   "FST255": {
     "series": "FST",
@@ -2091,25 +2397,25 @@
     "series": "FST",
     "number": "258",
     "cardName": "Armando, Rachid et Noa",
-    "avgPrice": 4.77
+    "avgPrice": 4.5
   },
   "FST259": {
     "series": "FST",
     "number": "259",
     "cardName": "Danseuse",
-    "avgPrice": 2.5
+    "avgPrice": 2.48
   },
   "FST263": {
     "series": "FST",
     "number": "263",
     "cardName": "Sannah",
-    "avgPrice": 3.74
+    "avgPrice": 4.0
   },
   "FST264": {
     "series": "FST",
     "number": "264",
     "cardName": "Damien",
-    "avgPrice": 2.82
+    "avgPrice": 2.7
   },
   "FST276": {
     "series": "FST",
@@ -2120,7 +2426,7 @@
   "JTG011": {
     "series": "JTG",
     "number": "011",
-    "cardName": "",
+    "cardName": "Gaulet ex",
     "avgPrice": 0.32
   },
   "JTG024": {
@@ -2129,35 +2435,41 @@
     "cardName": "Braségali ex",
     "avgPrice": 0.87
   },
+  "JTG031": {
+    "series": "JTG",
+    "number": "031",
+    "cardName": "Volcanion ex",
+    "avgPrice": 0.55
+  },
   "JTG043": {
     "series": "JTG",
     "number": "043",
     "cardName": "Délestin ex",
-    "avgPrice": 0.23
+    "avgPrice": 0.2
   },
   "JTG051": {
     "series": "JTG",
     "number": "051",
     "cardName": "Tokorico ex",
-    "avgPrice": 0.28
+    "avgPrice": 0.23
   },
   "JTG053": {
     "series": "JTG",
     "number": "053",
     "cardName": "Ampibidou ex de Mashynn",
-    "avgPrice": 0.31
+    "avgPrice": 0.38
   },
   "JTG056": {
     "series": "JTG",
     "number": "056",
     "cardName": "Mélofée ex de Lilie",
-    "avgPrice": 0.46
+    "avgPrice": 0.5
   },
   "JTG069": {
     "series": "JTG",
     "number": "069",
     "cardName": "Mimiqui ex",
-    "avgPrice": 0.47
+    "avgPrice": 0.41
   },
   "JTG075": {
     "series": "JTG",
@@ -2169,37 +2481,43 @@
     "series": "JTG",
     "number": "079",
     "cardName": "Mammochon ex",
-    "avgPrice": 0.17
+    "avgPrice": 0.15
   },
   "JTG111": {
     "series": "JTG",
     "number": "111",
     "cardName": "Zacian ex de Nabil",
-    "avgPrice": 0.41
+    "avgPrice": 0.39
+  },
+  "JTG121": {
+    "series": "JTG",
+    "number": "121",
+    "cardName": "Deusolourdo ex",
+    "avgPrice": 0.28
   },
   "JTG160": {
     "series": "JTG",
     "number": "160",
     "cardName": "Maracachi",
-    "avgPrice": 1.95
+    "avgPrice": 1.98
   },
   "JTG161": {
     "series": "JTG",
     "number": "161",
     "cardName": "Artikodin",
-    "avgPrice": 18.3
+    "avgPrice": 17.75
   },
   "JTG162": {
     "series": "JTG",
     "number": "162",
     "cardName": "Wailord",
-    "avgPrice": 7.67
+    "avgPrice": 8.12
   },
   "JTG163": {
     "series": "JTG",
     "number": "163",
     "cardName": "Fulgulairo de Mashynn",
-    "avgPrice": 3.11
+    "avgPrice": 3.3
   },
   "JTG164": {
     "series": "JTG",
@@ -2211,13 +2529,13 @@
     "series": "JTG",
     "number": "165",
     "cardName": "Marcacrin",
-    "avgPrice": 2.5
+    "avgPrice": 2.45
   },
   "JTG166": {
     "series": "JTG",
     "number": "166",
     "cardName": "Lougaroc",
-    "avgPrice": 3.75
+    "avgPrice": 3.0
   },
   "JTG167": {
     "series": "JTG",
@@ -2229,19 +2547,19 @@
     "series": "JTG",
     "number": "168",
     "cardName": "Fouinar",
-    "avgPrice": 3.83
+    "avgPrice": 3.72
   },
   "JTG169": {
     "series": "JTG",
     "number": "169",
     "cardName": "Sonistrelle",
-    "avgPrice": 3.73
+    "avgPrice": 3.77
   },
   "JTG170": {
     "series": "JTG",
     "number": "170",
     "cardName": "Moumouton de Nabil",
-    "avgPrice": 2.55
+    "avgPrice": 2.62
   },
   "JTG171": {
     "series": "JTG",
@@ -2271,7 +2589,7 @@
     "series": "JTG",
     "number": "175",
     "cardName": "Zoroark ex de N",
-    "avgPrice": 3.8
+    "avgPrice": 4.05
   },
   "JTG176": {
     "series": "JTG",
@@ -2313,19 +2631,19 @@
     "series": "JTG",
     "number": "182",
     "cardName": "Volcanion ex",
-    "avgPrice": 38.0
+    "avgPrice": 39.75
   },
   "JTG183": {
     "series": "JTG",
     "number": "183",
     "cardName": "Ampibidou ex de Mashynn",
-    "avgPrice": 37.25
+    "avgPrice": 37.48
   },
   "JTG184": {
     "series": "JTG",
     "number": "184",
     "cardName": "Mélofée ex de Lilie",
-    "avgPrice": 101.49
+    "avgPrice": 100.5
   },
   "JTG185": {
     "series": "JTG",
@@ -2337,31 +2655,31 @@
     "series": "JTG",
     "number": "186",
     "cardName": "Zacian ex de Nabil",
-    "avgPrice": 50.5
+    "avgPrice": 50.75
   },
   "JTG187": {
     "series": "JTG",
     "number": "187",
     "cardName": "Drattak ex",
-    "avgPrice": 89.0
+    "avgPrice": 88.0
   },
   "JTG188": {
     "series": "JTG",
     "number": "188",
     "cardName": "Ampibidou ex de Mashynn",
-    "avgPrice": 22.5
+    "avgPrice": 20.75
   },
   "JTG189": {
     "series": "JTG",
     "number": "189",
     "cardName": "Zoroark ex de N",
-    "avgPrice": 30.0
+    "avgPrice": 32.5
   },
   "JTG190": {
     "series": "JTG",
     "number": "190",
     "cardName": "Énergie Piquante",
-    "avgPrice": 10.37
+    "avgPrice": 10.17
   },
   "LOR027": {
     "series": "LOR",
@@ -2434,6 +2752,12 @@
     "number": "172",
     "cardName": "Électrode de Hisui V",
     "avgPrice": 2.33
+  },
+  "LOR178": {
+    "series": "LOR",
+    "number": "178",
+    "cardName": "Amovénus V",
+    "avgPrice": 3.64
   },
   "LOR196": {
     "series": "LOR",
@@ -2523,7 +2847,7 @@
     "series": "LOR",
     "number": "TG18",
     "cardName": "Amovénus V",
-    "avgPrice": 10.0
+    "avgPrice": 9.75
   },
   "LORTG21": {
     "series": "LOR",
@@ -2547,7 +2871,7 @@
     "series": "LOR",
     "number": "TG26",
     "cardName": "Kabu",
-    "avgPrice": 2.98
+    "avgPrice": 2.99
   },
   "LORTG27": {
     "series": "LOR",
@@ -2559,7 +2883,7 @@
     "series": "LOR",
     "number": "TG29",
     "cardName": "Pikachu VMAX",
-    "avgPrice": 13.6
+    "avgPrice": 13.95
   },
   "MEG003": {
     "series": "MEG",
@@ -2571,19 +2895,19 @@
     "series": "MEG",
     "number": "022",
     "cardName": "Mega Camérupt ex",
-    "avgPrice": 0.17
+    "avgPrice": 0.15
   },
   "MEG036": {
     "series": "MEG",
     "number": "036",
     "cardName": "Mega Blizzaroi ex",
-    "avgPrice": 0.17
+    "avgPrice": 0.11
   },
   "MEG050": {
     "series": "MEG",
     "number": "050",
     "cardName": "Mega Élecsprint ex",
-    "avgPrice": 0.25
+    "avgPrice": 0.17
   },
   "MEG060": {
     "series": "MEG",
@@ -2601,13 +2925,13 @@
     "series": "MEG",
     "number": "086",
     "cardName": "Mega Absol ex",
-    "avgPrice": 0.68
+    "avgPrice": 0.45
   },
   "MEG094": {
     "series": "MEG",
     "number": "094",
     "cardName": "Mega Mysdibule ex",
-    "avgPrice": 0.24
+    "avgPrice": 0.17
   },
   "MEG100": {
     "series": "MEG",
@@ -2619,19 +2943,19 @@
     "series": "MEG",
     "number": "104",
     "cardName": "Mega Kangourex ex",
-    "avgPrice": 0.52
+    "avgPrice": 0.45
   },
   "MEG133": {
     "series": "MEG",
     "number": "133",
     "cardName": "Bulbizarre",
-    "avgPrice": 25.75
+    "avgPrice": 25.25
   },
   "MEG134": {
     "series": "MEG",
     "number": "134",
     "cardName": "Herbizarre",
-    "avgPrice": 19.87
+    "avgPrice": 19.99
   },
   "MEG135": {
     "series": "MEG",
@@ -2655,13 +2979,13 @@
     "series": "MEG",
     "number": "138",
     "cardName": "Goupix",
-    "avgPrice": 18.6
+    "avgPrice": 13.75
   },
   "MEG139": {
     "series": "MEG",
     "number": "139",
     "cardName": "Hélionceau",
-    "avgPrice": 3.0
+    "avgPrice": 2.99
   },
   "MEG140": {
     "series": "MEG",
@@ -2685,13 +3009,13 @@
     "series": "MEG",
     "number": "143",
     "cardName": "Galvaran",
-    "avgPrice": 2.95
+    "avgPrice": 2.7
   },
   "MEG144": {
     "series": "MEG",
     "number": "144",
     "cardName": "Munja",
-    "avgPrice": 2.97
+    "avgPrice": 2.46
   },
   "MEG145": {
     "series": "MEG",
@@ -2721,7 +3045,7 @@
     "series": "MEG",
     "number": "149",
     "cardName": "Gribouraigne",
-    "avgPrice": 2.29
+    "avgPrice": 2.44
   },
   "MEG150": {
     "series": "MEG",
@@ -2763,7 +3087,7 @@
     "series": "MEG",
     "number": "156",
     "cardName": "Mega Camérupt ex",
-    "avgPrice": 4.96
+    "avgPrice": 4.93
   },
   "MEG157": {
     "series": "MEG",
@@ -2787,7 +3111,7 @@
     "series": "MEG",
     "number": "160",
     "cardName": "Mega Lucario ex",
-    "avgPrice": 13.25
+    "avgPrice": 13.1
   },
   "MEG161": {
     "series": "MEG",
@@ -2817,7 +3141,7 @@
     "series": "MEG",
     "number": "165",
     "cardName": "Espièglerie de Margie",
-    "avgPrice": 3.0
+    "avgPrice": 2.8
   },
   "MEG166": {
     "series": "MEG",
@@ -2841,7 +3165,7 @@
     "series": "MEG",
     "number": "169",
     "cardName": "Détermination de Lilie",
-    "avgPrice": 13.2
+    "avgPrice": 11.97
   },
   "MEG170": {
     "series": "MEG",
@@ -2939,95 +3263,119 @@
     "cardName": "Négociation de Major Bob",
     "avgPrice": 21.49
   },
+  "MEP020": {
+    "series": "MEP",
+    "number": "020",
+    "cardName": "Farfuret",
+    "avgPrice": 0.02
+  },
+  "MEP021": {
+    "series": "MEP",
+    "number": "021",
+    "cardName": "Dimoret",
+    "avgPrice": 0.02
+  },
+  "MEP022": {
+    "series": "MEP",
+    "number": "022",
+    "cardName": "Charbambin",
+    "avgPrice": 1.1
+  },
   "MEW003": {
     "series": "MEW",
     "number": "003",
     "cardName": "Florizarre ex",
-    "avgPrice": 0.48
+    "avgPrice": 0.5
   },
   "MEW006": {
     "series": "MEW",
     "number": "006",
     "cardName": "Dracaufeu ex",
-    "avgPrice": 7.07
+    "avgPrice": 6.25
   },
   "MEW009": {
     "series": "MEW",
     "number": "009",
     "cardName": "Tortank ex",
-    "avgPrice": 0.74
+    "avgPrice": 0.7
   },
   "MEW024": {
     "series": "MEW",
     "number": "024",
     "cardName": "Arbok ex",
-    "avgPrice": 2.89
+    "avgPrice": 2.61
   },
   "MEW038": {
     "series": "MEW",
     "number": "038",
     "cardName": "Feunard ex",
-    "avgPrice": 1.96
+    "avgPrice": 1.63
   },
   "MEW040": {
     "series": "MEW",
     "number": "040",
     "cardName": "Grodoudou ex",
-    "avgPrice": 1.45
+    "avgPrice": 1.42
   },
   "MEW065": {
     "series": "MEW",
     "number": "065",
     "cardName": "Alakazam ex",
-    "avgPrice": 2.35
+    "avgPrice": 2.08
   },
   "MEW076": {
     "series": "MEW",
     "number": "076",
     "cardName": "Grolem ex",
-    "avgPrice": 1.37
+    "avgPrice": 1.83
   },
   "MEW115": {
     "series": "MEW",
     "number": "115",
     "cardName": "Kangourex ex",
-    "avgPrice": 1.5
+    "avgPrice": 0.97
   },
   "MEW124": {
     "series": "MEW",
     "number": "124",
     "cardName": "Lippoutou ex",
-    "avgPrice": 1.52
+    "avgPrice": 1.87
   },
   "MEW145": {
     "series": "MEW",
     "number": "145",
     "cardName": "Électhor ex",
-    "avgPrice": 1.62
+    "avgPrice": 1.6
   },
   "MEW151": {
     "series": "MEW",
     "number": "151",
     "cardName": "Mew ex",
-    "avgPrice": 6.58
+    "avgPrice": 6.61
   },
   "MEW166": {
     "series": "MEW",
     "number": "166",
     "cardName": "Bulbizarre",
-    "avgPrice": 50.0
+    "avgPrice": 54.61
   },
   "MEW168": {
     "series": "MEW",
     "number": "168",
     "cardName": "Salamèche",
-    "avgPrice": 87.33
+    "avgPrice": 78.99
+  },
+  "MEW169": {
+    "series": "MEW",
+    "number": "169",
+    "cardName": "Reptincel",
+    "avgPrice": 49.48
   },
   "MEW172": {
     "series": "MEW",
     "number": "172",
     "cardName": "Chenipan",
-    "avgPrice": 16.22
+    "avgPrice": 15.75
   },
   "MEW173": {
     "series": "MEW",
@@ -3041,17 +3389,29 @@
     "cardName": "Nidoking",
     "avgPrice": 19.45
   },
+  "MEW175": {
+    "series": "MEW",
+    "number": "175",
+    "cardName": "Psykokwak",
+    "avgPrice": 27.24
+  },
   "MEW176": {
     "series": "MEW",
     "number": "176",
     "cardName": "Têtarte",
-    "avgPrice": 25.31
+    "avgPrice": 25.44
+  },
+  "MEW177": {
+    "series": "MEW",
+    "number": "177",
+    "cardName": "Machopeur",
+    "avgPrice": 19.75
   },
   "MEW179": {
     "series": "MEW",
     "number": "179",
     "cardName": "M. Mime",
-    "avgPrice": 10.88
+    "avgPrice": 11.43
   },
   "MEW180": {
     "series": "MEW",
@@ -3069,19 +3429,19 @@
     "series": "MEW",
     "number": "182",
     "cardName": "Florizarre ex",
-    "avgPrice": 24.75
+    "avgPrice": 23.75
   },
   "MEW183": {
     "series": "MEW",
     "number": "183",
     "cardName": "Dracaufeu ex",
-    "avgPrice": 58.0
+    "avgPrice": 59.5
   },
   "MEW184": {
     "series": "MEW",
     "number": "184",
     "cardName": "Tortank ex",
-    "avgPrice": 31.0
+    "avgPrice": 31.75
   },
   "MEW185": {
     "series": "MEW",
@@ -3093,31 +3453,31 @@
     "series": "MEW",
     "number": "187",
     "cardName": "Grodoudou ex",
-    "avgPrice": 15.25
+    "avgPrice": 14.38
   },
   "MEW188": {
     "series": "MEW",
     "number": "188",
     "cardName": "Alakazam ex",
-    "avgPrice": 18.25
+    "avgPrice": 19.85
   },
   "MEW189": {
     "series": "MEW",
     "number": "189",
     "cardName": "Grolem ex",
-    "avgPrice": 14.0
+    "avgPrice": 14.12
   },
   "MEW190": {
     "series": "MEW",
     "number": "190",
     "cardName": "Kangourex ex",
-    "avgPrice": 14.36
+    "avgPrice": 13.37
   },
   "MEW192": {
     "series": "MEW",
     "number": "192",
     "cardName": "Électhor ex",
-    "avgPrice": 19.12
+    "avgPrice": 18.99
   },
   "MEW193": {
     "series": "MEW",
@@ -3129,127 +3489,139 @@
     "series": "MEW",
     "number": "194",
     "cardName": "Transfert de Léo",
-    "avgPrice": 7.85
+    "avgPrice": 7.6
   },
   "MEW195": {
     "series": "MEW",
     "number": "195",
     "cardName": "Aide de Nina",
-    "avgPrice": 7.5
+    "avgPrice": 7.3
   },
   "MEW196": {
     "series": "MEW",
     "number": "196",
     "cardName": "Invitation d'Erika",
-    "avgPrice": 11.2
+    "avgPrice": 11.88
   },
   "MEW197": {
     "series": "MEW",
     "number": "197",
     "cardName": "Charisme de Giovanni",
-    "avgPrice": 9.07
+    "avgPrice": 9.46
   },
   "MEW198": {
     "series": "MEW",
     "number": "198",
     "cardName": "Florizarre ex",
-    "avgPrice": 87.25
+    "avgPrice": 92.0
+  },
+  "MEW199": {
+    "series": "MEW",
+    "number": "199",
+    "cardName": "Dracaufeu ex",
+    "avgPrice": 248.5
   },
   "MEW200": {
     "series": "MEW",
     "number": "200",
     "cardName": "Tortank ex",
-    "avgPrice": 115.0
+    "avgPrice": 116.25
   },
   "MEW201": {
     "series": "MEW",
     "number": "201",
     "cardName": "Alakazam ex",
-    "avgPrice": 78.0
+    "avgPrice": 82.5
   },
   "MEW202": {
     "series": "MEW",
     "number": "202",
     "cardName": "Électhor ex",
-    "avgPrice": 122.5
+    "avgPrice": 113.75
   },
   "MEW203": {
     "series": "MEW",
     "number": "203",
     "cardName": "Invitation d'Erika",
-    "avgPrice": 20.8
+    "avgPrice": 19.85
   },
   "MEW205": {
     "series": "MEW",
     "number": "205",
     "cardName": "Mew ex",
-    "avgPrice": 19.25
+    "avgPrice": 19.12
   },
   "MEW206": {
     "series": "MEW",
     "number": "206",
     "cardName": "Échange",
-    "avgPrice": 3.17
+    "avgPrice": 3.33
   },
   "MEW207": {
     "series": "MEW",
     "number": "207",
     "cardName": "Énergie Psy de base",
-    "avgPrice": 5.17
+    "avgPrice": 5.55
   },
   "OBF015": {
     "series": "OBF",
     "number": "015",
     "cardName": "Archéduc ex",
-    "avgPrice": 0.45
+    "avgPrice": 0.43
   },
   "OBF042": {
     "series": "OBF",
     "number": "042",
     "cardName": "Bekaglaçon ex",
-    "avgPrice": 1.01
+    "avgPrice": 0.82
   },
   "OBF066": {
     "series": "OBF",
     "number": "066",
     "cardName": "Tyranocif ex",
-    "avgPrice": 1.5
+    "avgPrice": 1.12
   },
   "OBF079": {
     "series": "OBF",
     "number": "079",
     "cardName": "Miraidon ex",
-    "avgPrice": 0.84
+    "avgPrice": 0.85
   },
   "OBF125": {
     "series": "OBF",
     "number": "125",
     "cardName": "Dracaufeu ex",
-    "avgPrice": 2.98
+    "avgPrice": 2.97
   },
   "OBF135": {
     "series": "OBF",
     "number": "135",
     "cardName": "Absol ex",
-    "avgPrice": 0.97
+    "avgPrice": 1.0
+  },
+  "OBF179": {
+    "series": "OBF",
+    "number": "179",
+    "cardName": "Rongrigou ex",
+    "avgPrice": 0.47
   },
   "OBF198": {
     "series": "OBF",
     "number": "198",
     "cardName": "Ortide",
-    "avgPrice": 7.62
+    "avgPrice": 8.75
   },
   "OBF199": {
     "series": "OBF",
     "number": "199",
     "cardName": "Feunard",
-    "avgPrice": 20.25
+    "avgPrice": 19.7
   },
   "OBF200": {
     "series": "OBF",
     "number": "200",
-    "cardName": "",
-    "avgPrice": 3.43
+    "cardName": "Superdofin",
+    "avgPrice": 3.04
   },
   "OBF201": {
     "series": "OBF",
@@ -3261,13 +3633,13 @@
     "series": "OBF",
     "number": "202",
     "cardName": "Mélo",
-    "avgPrice": 15.75
+    "avgPrice": 12.61
   },
   "OBF203": {
     "series": "OBF",
     "number": "203",
     "cardName": "Embrylex",
-    "avgPrice": 2.7
+    "avgPrice": 2.45
   },
   "OBF204": {
     "series": "OBF",
@@ -3279,7 +3651,7 @@
     "series": "OBF",
     "number": "205",
     "cardName": "Cizayox",
-    "avgPrice": 6.34
+    "avgPrice": 4.97
   },
   "OBF208": {
     "series": "OBF",
@@ -3291,13 +3663,13 @@
     "series": "OBF",
     "number": "210",
     "cardName": "Bekaglaçon ex",
-    "avgPrice": 1.51
+    "avgPrice": 1.0
   },
   "OBF211": {
     "series": "OBF",
     "number": "211",
     "cardName": "Tyranocif ex",
-    "avgPrice": 3.71
+    "avgPrice": 3.95
   },
   "OBF213": {
     "series": "OBF",
@@ -3305,11 +3677,17 @@
     "cardName": "Floréclat ex",
     "avgPrice": 0.97
   },
+  "OBF214": {
+    "series": "OBF",
+    "number": "214",
+    "cardName": "Flammes Obsidiennes",
+    "avgPrice": 2.1
+  },
   "OBF215": {
     "series": "OBF",
     "number": "215",
     "cardName": "Dracaufeu ex",
-    "avgPrice": 10.0
+    "avgPrice": 8.95
   },
   "OBF216": {
     "series": "OBF",
@@ -3327,25 +3705,31 @@
     "series": "OBF",
     "number": "220",
     "cardName": "Popi",
-    "avgPrice": 1.24
+    "avgPrice": 1.11
   },
   "OBF221": {
     "series": "OBF",
     "number": "221",
     "cardName": "Laïm",
-    "avgPrice": 0.94
+    "avgPrice": 0.89
   },
   "OBF222": {
     "series": "OBF",
     "number": "222",
     "cardName": "Bekaglaçon ex",
-    "avgPrice": 4.97
+    "avgPrice": 4.96
   },
   "OBF223": {
     "series": "OBF",
     "number": "223",
     "cardName": "Dracaufeu ex",
-    "avgPrice": 68.36
+    "avgPrice": 65.36
+  },
+  "OBF224": {
+    "series": "OBF",
+    "number": "224",
+    "cardName": "Vrombotor ex",
+    "avgPrice": 4.58
   },
   "OBF226": {
     "series": "OBF",
@@ -3357,13 +3741,13 @@
     "series": "OBF",
     "number": "228",
     "cardName": "Dracaufeu ex",
-    "avgPrice": 21.25
+    "avgPrice": 20.23
   },
   "OBF229": {
     "series": "OBF",
     "number": "229",
     "cardName": "Cuencia",
-    "avgPrice": 1.97
+    "avgPrice": 1.99
   },
   "PAF002": {
     "series": "PAF",
@@ -3431,11 +3815,23 @@
     "cardName": "Germéclat",
     "avgPrice": 3.1
   },
+  "PAF212": {
+    "series": "PAF",
+    "number": "212",
+    "cardName": "Foretress ex",
+    "avgPrice": 1.0
+  },
   "PAF213": {
     "series": "PAF",
     "number": "213",
     "cardName": "Terracruel ex",
     "avgPrice": 1.35
+  },
+  "PAF214": {
+    "series": "PAF",
+    "number": "214",
+    "cardName": "Cléopsytra ex",
+    "avgPrice": 1.31
   },
   "PAF216": {
     "series": "PAF",
@@ -3477,7 +3873,7 @@
     "series": "PAF",
     "number": "228",
     "cardName": "Juge",
-    "avgPrice": 0.34
+    "avgPrice": 0.35
   },
   "PAF232": {
     "series": "PAF",
@@ -3597,7 +3993,7 @@
     "series": "PAL",
     "number": "197",
     "cardName": "Matourgeon",
-    "avgPrice": 9.0
+    "avgPrice": 9.37
   },
   "PAL199": {
     "series": "PAL",
@@ -3609,13 +4005,13 @@
     "series": "PAL",
     "number": "201",
     "cardName": "Chochodile",
-    "avgPrice": 13.12
+    "avgPrice": 14.06
   },
   "PAL203": {
     "series": "PAL",
     "number": "203",
     "cardName": "Magicarpe",
-    "avgPrice": 207.5
+    "avgPrice": 225.0
   },
   "PAL206": {
     "series": "PAL",
@@ -3633,7 +4029,7 @@
     "series": "PAL",
     "number": "210",
     "cardName": "Glaivodo",
-    "avgPrice": 9.25
+    "avgPrice": 8.79
   },
   "PAL213": {
     "series": "PAL",
@@ -3645,7 +4041,7 @@
     "series": "PAL",
     "number": "215",
     "cardName": "Bérasca",
-    "avgPrice": 5.99
+    "avgPrice": 5.41
   },
   "PAL216": {
     "series": "PAL",
@@ -3675,7 +4071,7 @@
     "series": "PAL",
     "number": "224",
     "cardName": "Ferdeter",
-    "avgPrice": 4.55
+    "avgPrice": 5.0
   },
   "PAL225": {
     "series": "PAL",
@@ -3693,18 +4089,24 @@
     "series": "PAL",
     "number": "228",
     "cardName": "Farigiraf",
-    "avgPrice": 6.84
+    "avgPrice": 6.12
+  },
+  "PAL229": {
+    "series": "PAL",
+    "number": "229",
+    "cardName": "Deusolourdo",
+    "avgPrice": 5.72
   },
   "PAL230": {
     "series": "PAL",
     "number": "230",
     "cardName": "Foretress ex",
-    "avgPrice": 2.69
+    "avgPrice": 2.59
   },
   "PAL231": {
     "series": "PAL",
     "number": "231",
-    "cardName": "",
+    "cardName": "Miascarade ex",
     "avgPrice": 2.96
   },
   "PAL233": {
@@ -3713,17 +4115,23 @@
     "cardName": "Flâmigator ex",
     "avgPrice": 3.1
   },
+  "PAL234": {
+    "series": "PAL",
+    "number": "234",
+    "cardName": "Yuyu ex",
+    "avgPrice": 3.48
+  },
   "PAL236": {
     "series": "PAL",
     "number": "236",
     "cardName": "Baojian ex",
-    "avgPrice": 2.87
+    "avgPrice": 2.75
   },
   "PAL238": {
     "series": "PAL",
     "number": "238",
     "cardName": "Roigada ex",
-    "avgPrice": 3.99
+    "avgPrice": 4.25
   },
   "PAL239": {
     "series": "PAL",
@@ -3741,7 +4149,7 @@
     "series": "PAL",
     "number": "241",
     "cardName": "Lougaroc ex",
-    "avgPrice": 2.49
+    "avgPrice": 2.46
   },
   "PAL242": {
     "series": "PAL",
@@ -3759,13 +4167,13 @@
     "series": "PAL",
     "number": "245",
     "cardName": "Pachyradjah ex",
-    "avgPrice": 2.12
+    "avgPrice": 2.07
   },
   "PAL246": {
     "series": "PAL",
     "number": "246",
     "cardName": "Bruyverne ex",
-    "avgPrice": 2.0
+    "avgPrice": 1.95
   },
   "PAL249": {
     "series": "PAL",
@@ -3777,13 +4185,13 @@
     "series": "PAL",
     "number": "250",
     "cardName": "Élige",
-    "avgPrice": 1.94
+    "avgPrice": 1.96
   },
   "PAL251": {
     "series": "PAL",
     "number": "251",
     "cardName": "Albert",
-    "avgPrice": 1.83
+    "avgPrice": 2.0
   },
   "PAL252": {
     "series": "PAL",
@@ -3795,7 +4203,7 @@
     "series": "PAL",
     "number": "254",
     "cardName": "Mashynn",
-    "avgPrice": 6.38
+    "avgPrice": 5.79
   },
   "PAL262": {
     "series": "PAL",
@@ -3807,19 +4215,19 @@
     "series": "PAL",
     "number": "264",
     "cardName": "Tapatoès ex",
-    "avgPrice": 10.5
+    "avgPrice": 10.42
   },
   "PAL266": {
     "series": "PAL",
     "number": "266",
     "cardName": "Élige",
-    "avgPrice": 8.0
+    "avgPrice": 7.75
   },
   "PAL267": {
     "series": "PAL",
     "number": "267",
     "cardName": "Brome",
-    "avgPrice": 4.82
+    "avgPrice": 4.84
   },
   "PAL271": {
     "series": "PAL",
@@ -3831,19 +4239,25 @@
     "series": "PAL",
     "number": "272",
     "cardName": "Flâmigator ex",
-    "avgPrice": 7.55
+    "avgPrice": 6.42
   },
   "PAL273": {
     "series": "PAL",
     "number": "273",
     "cardName": "Palmaval ex",
-    "avgPrice": 5.38
+    "avgPrice": 4.74
   },
   "PAL275": {
     "series": "PAL",
     "number": "275",
     "cardName": "Dinglu ex",
-    "avgPrice": 5.31
+    "avgPrice": 5.19
+  },
+  "PAR046": {
+    "series": "PAR",
+    "number": "046",
+    "cardName": "Sucreine ex",
+    "avgPrice": 0.45
   },
   "PAR058": {
     "series": "PAR",
@@ -3869,6 +4283,12 @@
     "cardName": "Rugit-Lune ex",
     "avgPrice": 0.97
   },
+  "PAR137": {
+    "series": "PAR",
+    "number": "137",
+    "cardName": "Flâmigator ex",
+    "avgPrice": 0.72
+  },
   "PAR139": {
     "series": "PAR",
     "number": "139",
@@ -3880,6 +4300,12 @@
     "number": "140",
     "cardName": "Altaria ex",
     "avgPrice": 0.83
+  },
+  "PAR156": {
+    "series": "PAR",
+    "number": "156",
+    "cardName": "Lestombaile ex",
+    "avgPrice": 0.4
   },
   "PAR183": {
     "series": "PAR",
@@ -4019,6 +4445,12 @@
     "cardName": "Anis",
     "avgPrice": 1.9
   },
+  "PAR244": {
+    "series": "PAR",
+    "number": "244",
+    "cardName": "Tully",
+    "avgPrice": 3.2
+  },
   "PAR245": {
     "series": "PAR",
     "number": "245",
@@ -4071,121 +4503,121 @@
     "series": "PFL",
     "number": "029",
     "cardName": "Motisma ex",
-    "avgPrice": 0.08
+    "avgPrice": 0.1
   },
   "PFL036": {
     "series": "PFL",
     "number": "036",
     "cardName": "Magirêve ex",
-    "avgPrice": 0.12
+    "avgPrice": 0.09
   },
   "PFL041": {
     "series": "PFL",
     "number": "041",
     "cardName": "Mega Diancie ex",
-    "avgPrice": 0.18
+    "avgPrice": 0.11
   },
   "PFL056": {
     "series": "PFL",
     "number": "056",
     "cardName": "Mega Ectoplasma ex",
-    "avgPrice": 1.0
+    "avgPrice": 0.97
   },
   "PFL061": {
     "series": "PFL",
     "number": "061",
-    "cardName": "",
-    "avgPrice": 0.28
+    "cardName": "Mega Sharpedo ex",
+    "avgPrice": 0.3
   },
   "PFL070": {
     "series": "PFL",
     "number": "070",
     "cardName": "Pingoléon ex",
-    "avgPrice": 0.17
+    "avgPrice": 0.16
   },
   "PFL084": {
     "series": "PFL",
     "number": "084",
     "cardName": "Mega Lockpin ex",
-    "avgPrice": 0.28
+    "avgPrice": 0.21
   },
   "PFL095": {
     "series": "PFL",
     "number": "095",
     "cardName": "Ludicolo",
-    "avgPrice": 3.0
+    "avgPrice": 2.95
   },
   "PFL096": {
     "series": "PFL",
     "number": "096",
     "cardName": "Lilliterelle",
-    "avgPrice": 1.51
+    "avgPrice": 1.47
   },
   "PFL097": {
     "series": "PFL",
     "number": "097",
     "cardName": "Lamantine",
-    "avgPrice": 4.0
+    "avgPrice": 3.95
   },
   "PFL098": {
     "series": "PFL",
     "number": "098",
     "cardName": "Tiplouf",
-    "avgPrice": 11.25
+    "avgPrice": 9.9
   },
   "PFL099": {
     "series": "PFL",
     "number": "099",
     "cardName": "Voltoutou",
-    "avgPrice": 2.0
+    "avgPrice": 1.23
   },
   "PFL100": {
     "series": "PFL",
     "number": "100",
     "cardName": "Zacian",
-    "avgPrice": 3.87
+    "avgPrice": 3.92
   },
   "PFL101": {
     "series": "PFL",
     "number": "101",
     "cardName": "Libégon",
-    "avgPrice": 4.45
+    "avgPrice": 3.83
   },
   "PFL102": {
     "series": "PFL",
     "number": "102",
     "cardName": "Axoloto de Paldea",
-    "avgPrice": 2.46
+    "avgPrice": 2.22
   },
   "PFL103": {
     "series": "PFL",
     "number": "103",
     "cardName": "Salarsen",
-    "avgPrice": 2.0
+    "avgPrice": 1.74
   },
   "PFL104": {
     "series": "PFL",
     "number": "104",
     "cardName": "Togedemaru",
-    "avgPrice": 1.98
+    "avgPrice": 1.8
   },
   "PFL105": {
     "series": "PFL",
     "number": "105",
     "cardName": "Grodoudou",
-    "avgPrice": 3.92
+    "avgPrice": 3.43
   },
   "PFL106": {
     "series": "PFL",
     "number": "106",
     "cardName": "Miaouss",
-    "avgPrice": 15.82
+    "avgPrice": 15.97
   },
   "PFL107": {
     "series": "PFL",
     "number": "107",
     "cardName": "Capidextre",
-    "avgPrice": 2.0
+    "avgPrice": 1.41
   },
   "PFL108": {
     "series": "PFL",
@@ -4197,49 +4629,49 @@
     "series": "PFL",
     "number": "109",
     "cardName": "Mega Dracaufeu X ex",
-    "avgPrice": 37.25
+    "avgPrice": 35.0
   },
   "PFL110": {
     "series": "PFL",
     "number": "110",
     "cardName": "Plumeline ex",
-    "avgPrice": 3.7
+    "avgPrice": 3.0
   },
   "PFL111": {
     "series": "PFL",
     "number": "111",
     "cardName": "Motisma ex",
-    "avgPrice": 3.81
+    "avgPrice": 3.0
   },
   "PFL112": {
     "series": "PFL",
     "number": "112",
     "cardName": "Magirêve ex",
-    "avgPrice": 4.8
+    "avgPrice": 3.94
   },
   "PFL113": {
     "series": "PFL",
     "number": "113",
     "cardName": "Mega Sharpedo ex",
-    "avgPrice": 5.0
+    "avgPrice": 4.9
   },
   "PFL114": {
     "series": "PFL",
     "number": "114",
     "cardName": "Pingoléon ex",
-    "avgPrice": 5.57
+    "avgPrice": 4.87
   },
   "PFL115": {
     "series": "PFL",
     "number": "115",
     "cardName": "Mega Lockpin ex",
-    "avgPrice": 5.53
+    "avgPrice": 4.62
   },
   "PFL116": {
     "series": "PFL",
     "number": "116",
     "cardName": "Cage de Combat",
-    "avgPrice": 2.72
+    "avgPrice": 2.12
   },
   "PFL117": {
     "series": "PFL",
@@ -4251,7 +4683,7 @@
     "series": "PFL",
     "number": "118",
     "cardName": "Aurore",
-    "avgPrice": 5.1
+    "avgPrice": 5.33
   },
   "PFL119": {
     "series": "PFL",
@@ -4263,13 +4695,13 @@
     "series": "PFL",
     "number": "120",
     "cardName": "Action de Pieris",
-    "avgPrice": 2.0
+    "avgPrice": 1.22
   },
   "PFL121": {
     "series": "PFL",
     "number": "121",
     "cardName": "Casque Punk",
-    "avgPrice": 1.97
+    "avgPrice": 1.06
   },
   "PFL122": {
     "series": "PFL",
@@ -4281,19 +4713,19 @@
     "series": "PFL",
     "number": "123",
     "cardName": "Échange",
-    "avgPrice": 2.17
+    "avgPrice": 2.23
   },
   "PFL124": {
     "series": "PFL",
     "number": "124",
     "cardName": "Énergie Amorce",
-    "avgPrice": 2.05
+    "avgPrice": 1.86
   },
   "PFL125": {
     "series": "PFL",
     "number": "125",
     "cardName": "Mega Dracaufeu X ex",
-    "avgPrice": 488.75
+    "avgPrice": 500.0
   },
   "PFL126": {
     "series": "PFL",
@@ -4317,7 +4749,7 @@
     "series": "PFL",
     "number": "129",
     "cardName": "Aurore",
-    "avgPrice": 33.0
+    "avgPrice": 32.62
   },
   "PFL130": {
     "series": "PFL",
@@ -4329,55 +4761,67 @@
     "series": "PGO",
     "number": "004",
     "cardName": "Florizarre Radieux",
-    "avgPrice": 6.75
+    "avgPrice": 6.85
   },
   "PGO005": {
     "series": "PGO",
     "number": "005",
     "cardName": "Noadkoko de Alola V",
-    "avgPrice": 0.97
+    "avgPrice": 0.92
+  },
+  "PGO011": {
+    "series": "PGO",
+    "number": "011",
+    "cardName": "Dracaufeu Radieux",
+    "avgPrice": 14.47
   },
   "PGO018": {
     "series": "PGO",
     "number": "018",
     "cardName": "Tortank Radieux",
-    "avgPrice": 6.75
+    "avgPrice": 6.87
   },
   "PGO030": {
     "series": "PGO",
     "number": "030",
     "cardName": "Mewtwo V",
-    "avgPrice": 3.99
+    "avgPrice": 3.89
+  },
+  "PGO031": {
+    "series": "PGO",
+    "number": "031",
+    "cardName": "Mewtwo VSTAR",
+    "avgPrice": 4.25
   },
   "PGO040": {
     "series": "PGO",
     "number": "040",
     "cardName": "Bétochef V",
-    "avgPrice": 0.5
+    "avgPrice": 0.46
   },
   "PGO047": {
     "series": "PGO",
     "number": "047",
     "cardName": "Melmetal V",
-    "avgPrice": 0.67
+    "avgPrice": 0.58
   },
   "PGO048": {
     "series": "PGO",
     "number": "048",
     "cardName": "Melmetal VMAX",
-    "avgPrice": 1.78
+    "avgPrice": 1.71
   },
   "PGO049": {
     "series": "PGO",
     "number": "049",
     "cardName": "Dracolosse V",
-    "avgPrice": 2.27
+    "avgPrice": 1.93
   },
   "PGO050": {
     "series": "PGO",
     "number": "050",
     "cardName": "Dracolosse VSTAR",
-    "avgPrice": 2.94
+    "avgPrice": 3.0
   },
   "PGO058": {
     "series": "PGO",
@@ -4389,55 +4833,61 @@
     "series": "PGO",
     "number": "071",
     "cardName": "Noadkoko de Alola V",
-    "avgPrice": 5.52
+    "avgPrice": 5.15
   },
   "PGO072": {
     "series": "PGO",
     "number": "072",
     "cardName": "Mewtwo V",
-    "avgPrice": 47.25
+    "avgPrice": 47.24
   },
   "PGO073": {
     "series": "PGO",
     "number": "073",
     "cardName": "Bétochef V",
-    "avgPrice": 4.12
+    "avgPrice": 4.0
+  },
+  "PGO074": {
+    "series": "PGO",
+    "number": "074",
+    "cardName": "Bétochef V",
+    "avgPrice": 7.86
   },
   "PGO075": {
     "series": "PGO",
     "number": "075",
     "cardName": "Melmetal V",
-    "avgPrice": 3.3
+    "avgPrice": 3.05
   },
   "PGO076": {
     "series": "PGO",
     "number": "076",
     "cardName": "Dracolosse V",
-    "avgPrice": 11.6
+    "avgPrice": 11.1
   },
   "PGO077": {
     "series": "PGO",
     "number": "077",
     "cardName": "Monaflèmit V",
-    "avgPrice": 3.2
+    "avgPrice": 2.98
   },
   "PGO078": {
     "series": "PGO",
     "number": "078",
-    "cardName": "Recherches Professorales - Professeur Willow",
-    "avgPrice": 4.4
+    "cardName": "Pokémon GO",
+    "avgPrice": 0.14
   },
   "PGO079": {
     "series": "PGO",
     "number": "079",
     "cardName": "Mewtwo VSTAR",
-    "avgPrice": 48.75
+    "avgPrice": 44.69
   },
   "PGO080": {
     "series": "PGO",
     "number": "080",
     "cardName": "Melmetal VMAX",
-    "avgPrice": 25.49
+    "avgPrice": 24.99
   },
   "PGO081": {
     "series": "PGO",
@@ -4449,43 +4899,43 @@
     "series": "PGO",
     "number": "082",
     "cardName": "Capitaine d'équipe Blanche",
-    "avgPrice": 29.99
+    "avgPrice": 24.0
   },
   "PGO083": {
     "series": "PGO",
     "number": "083",
     "cardName": "Capitaine d'équipe Candela",
-    "avgPrice": 27.12
+    "avgPrice": 25.74
   },
   "PGO084": {
     "series": "PGO",
     "number": "084",
-    "cardName": "Recherches Professorales - Professeur Willow",
-    "avgPrice": 30.23
+    "cardName": "Pokémon GO",
+    "avgPrice": 0.14
   },
   "PGO085": {
     "series": "PGO",
     "number": "085",
     "cardName": "Capitaine d'équipe Spark",
-    "avgPrice": 29.47
+    "avgPrice": 28.49
   },
   "PGO086": {
     "series": "PGO",
     "number": "086",
     "cardName": "Mewtwo VSTAR",
-    "avgPrice": 41.25
+    "avgPrice": 38.75
   },
   "PGO087": {
     "series": "PGO",
     "number": "087",
     "cardName": "Incubateur d'Œufs",
-    "avgPrice": 11.72
+    "avgPrice": 10.7
   },
   "PGO088": {
     "series": "PGO",
     "number": "088",
     "cardName": "Module Leurre",
-    "avgPrice": 13.75
+    "avgPrice": 10.12
   },
   "PRE006": {
     "series": "PRE",
@@ -4499,23 +4949,35 @@
     "cardName": "Pomdorochi ex",
     "avgPrice": 0.79
   },
+  "PRE012": {
+    "series": "PRE",
+    "number": "012",
+    "cardName": "Ogerpon Masque Turquoise ex",
+    "avgPrice": 0.98
+  },
   "PRE014": {
     "series": "PRE",
     "number": "014",
     "cardName": "Pyroli ex",
-    "avgPrice": 4.95
+    "avgPrice": 4.0
   },
   "PRE017": {
     "series": "PRE",
     "number": "017",
     "cardName": "Ogerpon Masque du Fourneau ex",
-    "avgPrice": 0.77
+    "avgPrice": 0.57
   },
   "PRE026": {
     "series": "PRE",
     "number": "026",
     "cardName": "Givrali ex",
     "avgPrice": 1.92
+  },
+  "PRE027": {
+    "series": "PRE",
+    "number": "027",
+    "cardName": "Ogerpon Masque du Puits ex",
+    "avgPrice": 0.99
   },
   "PRE030": {
     "series": "PRE",
@@ -4533,7 +4995,7 @@
     "series": "PRE",
     "number": "056",
     "cardName": "Pelage-Sablé ex",
-    "avgPrice": 0.51
+    "avgPrice": 0.32
   },
   "PRE060": {
     "series": "PRE",
@@ -4611,7 +5073,7 @@
     "series": "PRE",
     "number": "135",
     "cardName": "Colza",
-    "avgPrice": 0.52
+    "avgPrice": 0.49
   },
   "PRE136": {
     "series": "PRE",
@@ -4623,7 +5085,7 @@
     "series": "PRE",
     "number": "137",
     "cardName": "Amis de Paldea",
-    "avgPrice": 0.55
+    "avgPrice": 0.59
   },
   "PRE138": {
     "series": "PRE",
@@ -4635,7 +5097,7 @@
     "series": "PRE",
     "number": "139",
     "cardName": "Compétence d'Okuba",
-    "avgPrice": 0.5
+    "avgPrice": 0.48
   },
   "PRE140": {
     "series": "PRE",
@@ -4653,7 +5115,7 @@
     "series": "PRE",
     "number": "142",
     "cardName": "Mora",
-    "avgPrice": 0.49
+    "avgPrice": 0.5
   },
   "PRE143": {
     "series": "PRE",
@@ -4667,11 +5129,17 @@
     "cardName": "Aquali ex",
     "avgPrice": 163.5
   },
+  "PRE160": {
+    "series": "PRE",
+    "number": "160",
+    "cardName": "Ogerpon Masque de la Pierre ex",
+    "avgPrice": 16.5
+  },
   "PRE174": {
     "series": "PRE",
     "number": "174",
     "cardName": "Kassis",
-    "avgPrice": 37.0
+    "avgPrice": 39.75
   },
   "PRE177": {
     "series": "PRE",
@@ -4713,163 +5181,163 @@
     "series": "SCR",
     "number": "014",
     "cardName": "Pomdorochi ex",
-    "avgPrice": 1.0
+    "avgPrice": 0.97
   },
   "SCR028": {
     "series": "SCR",
     "number": "028",
     "cardName": "Pyrobut ex",
-    "avgPrice": 1.16
+    "avgPrice": 1.24
   },
   "SCR030": {
     "series": "SCR",
     "number": "030",
     "cardName": "Tortank ex",
-    "avgPrice": 1.43
+    "avgPrice": 1.57
   },
   "SCR032": {
     "series": "SCR",
     "number": "032",
     "cardName": "Lokhlass ex",
-    "avgPrice": 1.99
+    "avgPrice": 1.71
   },
   "SCR041": {
     "series": "SCR",
     "number": "041",
     "cardName": "Amphinobi ex",
-    "avgPrice": 1.28
+    "avgPrice": 1.37
   },
   "SCR051": {
     "series": "SCR",
     "number": "051",
     "cardName": "Mygavolt ex",
-    "avgPrice": 1.0
+    "avgPrice": 0.99
   },
   "SCR067": {
     "series": "SCR",
     "number": "067",
     "cardName": "Briochien ex",
-    "avgPrice": 0.8
+    "avgPrice": 0.85
   },
   "SCR080": {
     "series": "SCR",
     "number": "080",
     "cardName": "Charmina ex",
-    "avgPrice": 0.92
+    "avgPrice": 0.91
   },
   "SCR082": {
     "series": "SCR",
     "number": "082",
     "cardName": "Lucario ex",
-    "avgPrice": 1.0
+    "avgPrice": 0.84
   },
   "SCR089": {
     "series": "SCR",
     "number": "089",
     "cardName": "Gigansel ex",
-    "avgPrice": 0.72
+    "avgPrice": 0.6
   },
   "SCR105": {
     "series": "SCR",
     "number": "105",
     "cardName": "Melmetal ex",
-    "avgPrice": 0.61
+    "avgPrice": 0.62
   },
   "SCR110": {
     "series": "SCR",
     "number": "110",
     "cardName": "Ferdeter ex",
-    "avgPrice": 0.88
+    "avgPrice": 0.97
   },
   "SCR128": {
     "series": "SCR",
     "number": "128",
     "cardName": "Terapagos ex",
-    "avgPrice": 0.93
+    "avgPrice": 0.85
   },
   "SCR134": {
     "series": "SCR",
     "number": "134",
     "cardName": "Bombe Deluxe",
-    "avgPrice": 0.11
+    "avgPrice": 0.13
   },
   "SCR136": {
     "series": "SCR",
     "number": "136",
     "cardName": "Arbre Majestueux",
-    "avgPrice": 0.12
+    "avgPrice": 0.11
   },
   "SCR142": {
     "series": "SCR",
     "number": "142",
     "cardName": "Cristal Scintillant",
-    "avgPrice": 0.22
+    "avgPrice": 0.17
   },
   "SCR143": {
     "series": "SCR",
     "number": "143",
-    "cardName": "",
-    "avgPrice": 47.37
+    "cardName": "Bulbizarre",
+    "avgPrice": 48.0
   },
   "SCR144": {
     "series": "SCR",
     "number": "144",
     "cardName": "Coxyclaque",
-    "avgPrice": 4.12
+    "avgPrice": 4.25
   },
   "SCR145": {
     "series": "SCR",
     "number": "145",
     "cardName": "Lilia",
-    "avgPrice": 6.3
+    "avgPrice": 5.96
   },
   "SCR146": {
     "series": "SCR",
     "number": "146",
     "cardName": "Boumata",
-    "avgPrice": 4.25
+    "avgPrice": 4.49
   },
   "SCR147": {
     "series": "SCR",
     "number": "147",
     "cardName": "Lapyro",
-    "avgPrice": 6.75
+    "avgPrice": 7.83
   },
   "SCR148": {
     "series": "SCR",
     "number": "148",
     "cardName": "Carapuce",
-    "avgPrice": 47.72
+    "avgPrice": 44.75
   },
   "SCR149": {
     "series": "SCR",
     "number": "149",
     "cardName": "Crabominable",
-    "avgPrice": 3.98
+    "avgPrice": 3.84
   },
   "SCR150": {
     "series": "SCR",
     "number": "150",
     "cardName": "Statitik",
-    "avgPrice": 5.25
+    "avgPrice": 4.73
   },
   "SCR151": {
     "series": "SCR",
     "number": "151",
     "cardName": "Zeraora",
-    "avgPrice": 12.33
+    "avgPrice": 11.72
   },
   "SCR152": {
     "series": "SCR",
     "number": "152",
     "cardName": "Crèmy",
-    "avgPrice": 6.47
+    "avgPrice": 6.3
   },
   "SCR153": {
     "series": "SCR",
     "number": "153",
     "cardName": "Méditikka",
-    "avgPrice": 5.07
+    "avgPrice": 5.29
   },
   "SCR154": {
     "series": "SCR",
@@ -4887,73 +5355,73 @@
     "series": "SCR",
     "number": "156",
     "cardName": "Pomdorochi ex",
-    "avgPrice": 1.98
+    "avgPrice": 2.0
   },
   "SCR157": {
     "series": "SCR",
     "number": "157",
     "cardName": "Pyrobut ex",
-    "avgPrice": 4.6
+    "avgPrice": 4.79
   },
   "SCR158": {
     "series": "SCR",
     "number": "158",
     "cardName": "Lokhlass ex",
-    "avgPrice": 4.47
+    "avgPrice": 4.5
   },
   "SCR159": {
     "series": "SCR",
     "number": "159",
     "cardName": "Mygavolt ex",
-    "avgPrice": 3.76
+    "avgPrice": 3.89
   },
   "SCR160": {
     "series": "SCR",
     "number": "160",
     "cardName": "Briochien ex",
-    "avgPrice": 2.45
+    "avgPrice": 2.6
   },
   "SCR161": {
     "series": "SCR",
     "number": "161",
     "cardName": "Charmina ex",
-    "avgPrice": 1.9
+    "avgPrice": 1.75
   },
   "SCR162": {
     "series": "SCR",
     "number": "162",
     "cardName": "Ferdeter ex",
-    "avgPrice": 1.93
+    "avgPrice": 1.73
   },
   "SCR163": {
     "series": "SCR",
     "number": "163",
     "cardName": "Bria",
-    "avgPrice": 2.95
+    "avgPrice": 2.85
   },
   "SCR164": {
     "series": "SCR",
     "number": "164",
     "cardName": "Rubépin",
-    "avgPrice": 4.84
+    "avgPrice": 4.97
   },
   "SCR165": {
     "series": "SCR",
     "number": "165",
     "cardName": "Kombu",
-    "avgPrice": 1.94
+    "avgPrice": 1.92
   },
   "SCR166": {
     "series": "SCR",
     "number": "166",
     "cardName": "Taro",
-    "avgPrice": 3.05
+    "avgPrice": 2.88
   },
   "SCR167": {
     "series": "SCR",
     "number": "167",
     "cardName": "Pomdorochi ex",
-    "avgPrice": 34.38
+    "avgPrice": 31.5
   },
   "SCR168": {
     "series": "SCR",
@@ -4965,43 +5433,43 @@
     "series": "SCR",
     "number": "169",
     "cardName": "Briochien ex",
-    "avgPrice": 36.36
+    "avgPrice": 37.74
   },
   "SCR170": {
     "series": "SCR",
     "number": "170",
     "cardName": "Terapagos ex",
-    "avgPrice": 49.0
+    "avgPrice": 46.75
   },
   "SCR171": {
     "series": "SCR",
     "number": "171",
     "cardName": "Bria",
-    "avgPrice": 28.5
+    "avgPrice": 26.35
   },
   "SCR172": {
     "series": "SCR",
     "number": "172",
     "cardName": "Taro",
-    "avgPrice": 27.5
+    "avgPrice": 26.99
   },
   "SCR173": {
     "series": "SCR",
     "number": "173",
     "cardName": "Terapagos ex",
-    "avgPrice": 21.22
+    "avgPrice": 21.2
   },
   "SCR174": {
     "series": "SCR",
     "number": "174",
     "cardName": "Abîme Zéro",
-    "avgPrice": 14.25
+    "avgPrice": 13.72
   },
   "SCR175": {
     "series": "SCR",
     "number": "175",
     "cardName": "Amulette Bravoure",
-    "avgPrice": 11.25
+    "avgPrice": 11.62
   },
   "SFA012": {
     "series": "SFA",
@@ -5031,7 +5499,13 @@
     "series": "SFA",
     "number": "058",
     "cardName": "Laser Dangereux",
-    "avgPrice": 0.38
+    "avgPrice": 0.44
+  },
+  "SFA062": {
+    "series": "SFA",
+    "number": "062",
+    "cardName": "Poké Vital A",
+    "avgPrice": 0.5
   },
   "SFA065": {
     "series": "SFA",
@@ -5057,6 +5531,12 @@
     "cardName": "Téraclope",
     "avgPrice": 13.12
   },
+  "SFA071": {
+    "series": "SFA",
+    "number": "071",
+    "cardName": "Cresselia",
+    "avgPrice": 19.98
+  },
   "SFA073": {
     "series": "SFA",
     "number": "073",
@@ -5067,7 +5547,7 @@
     "series": "SFA",
     "number": "075",
     "cardName": "Zorua",
-    "avgPrice": 14.23
+    "avgPrice": 13.6
   },
   "SFA076": {
     "series": "SFA",
@@ -5105,11 +5585,29 @@
     "cardName": "Pêchaminus ex",
     "avgPrice": 3.12
   },
+  "SFA089": {
+    "series": "SFA",
+    "number": "089",
+    "cardName": "Machinations de Xanthin",
+    "avgPrice": 2.83
+  },
+  "SFA099": {
+    "series": "SFA",
+    "number": "099",
+    "cardName": "Énergie Métal de base",
+    "avgPrice": 66.5
+  },
+  "SHFSV50": {
+    "series": "SHF",
+    "number": "SV50",
+    "cardName": "Corayôme de Galar",
+    "avgPrice": 7.88
+  },
   "SHFSV57": {
     "series": "SHF",
     "number": "SV57",
     "cardName": "Crèmy",
-    "avgPrice": 6.95
+    "avgPrice": 6.94
   },
   "SHFSV76": {
     "series": "SHF",
@@ -5229,55 +5727,55 @@
     "series": "SSP",
     "number": "036",
     "cardName": "Malvalame ex",
-    "avgPrice": 2.0
+    "avgPrice": 1.7
   },
   "SSP037": {
     "series": "SSP",
     "number": "037",
     "cardName": "Scovilain ex",
-    "avgPrice": 0.5
+    "avgPrice": 0.41
   },
   "SSP042": {
     "series": "SSP",
     "number": "042",
     "cardName": "Milobellus ex",
-    "avgPrice": 0.74
+    "avgPrice": 0.66
   },
   "SSP048": {
     "series": "SSP",
     "number": "048",
     "cardName": "Kyurem Noir ex",
-    "avgPrice": 0.5
+    "avgPrice": 0.75
   },
   "SSP068": {
     "series": "SSP",
     "number": "068",
     "cardName": "Fulgulairo ex",
-    "avgPrice": 0.54
+    "avgPrice": 0.35
   },
   "SSP086": {
     "series": "SSP",
     "number": "086",
     "cardName": "Nymphali ex",
-    "avgPrice": 1.64
+    "avgPrice": 1.33
   },
   "SSP142": {
     "series": "SSP",
     "number": "142",
     "cardName": "Nigirigon ex",
-    "avgPrice": 0.75
+    "avgPrice": 0.78
   },
   "SSP159": {
     "series": "SSP",
     "number": "159",
     "cardName": "Motorizard ex",
-    "avgPrice": 0.67
+    "avgPrice": 0.47
   },
   "SSP160": {
     "series": "SSP",
     "number": "160",
     "cardName": "Flamenroule ex",
-    "avgPrice": 0.42
+    "avgPrice": 0.4
   },
   "SSP162": {
     "series": "SSP",
@@ -5289,13 +5787,13 @@
     "series": "SSP",
     "number": "182",
     "cardName": "Souffleur Titanesque",
-    "avgPrice": 0.48
+    "avgPrice": 0.36
   },
   "SSP185": {
     "series": "SSP",
     "number": "185",
     "cardName": "Chariot Précieux",
-    "avgPrice": 4.15
+    "avgPrice": 4.0
   },
   "SSP192": {
     "series": "SSP",
@@ -5307,31 +5805,31 @@
     "series": "SSP",
     "number": "193",
     "cardName": "Prismillon",
-    "avgPrice": 3.81
+    "avgPrice": 3.42
   },
   "SSP196": {
     "series": "SSP",
     "number": "196",
     "cardName": "Pyronille",
-    "avgPrice": 2.97
+    "avgPrice": 2.94
   },
   "SSP197": {
     "series": "SSP",
     "number": "197",
     "cardName": "Malvalame",
-    "avgPrice": 13.75
+    "avgPrice": 14.25
   },
   "SSP198": {
     "series": "SSP",
     "number": "198",
     "cardName": "Barpau",
-    "avgPrice": 6.99
+    "avgPrice": 6.55
   },
   "SSP199": {
     "series": "SSP",
     "number": "199",
     "cardName": "Obalie",
-    "avgPrice": 4.49
+    "avgPrice": 4.37
   },
   "SSP200": {
     "series": "SSP",
@@ -5343,7 +5841,7 @@
     "series": "SSP",
     "number": "203",
     "cardName": "Latios",
-    "avgPrice": 29.67
+    "avgPrice": 29.06
   },
   "SSP204": {
     "series": "SSP",
@@ -5355,49 +5853,49 @@
     "series": "SSP",
     "number": "206",
     "cardName": "Vibraninf",
-    "avgPrice": 3.76
+    "avgPrice": 4.0
   },
   "SSP209": {
     "series": "SSP",
     "number": "209",
     "cardName": "Airmure",
-    "avgPrice": 10.0
+    "avgPrice": 9.57
   },
   "SSP210": {
     "series": "SSP",
     "number": "210",
     "cardName": "Pomdrapi",
-    "avgPrice": 3.49
+    "avgPrice": 3.35
   },
   "SSP211": {
     "series": "SSP",
     "number": "211",
     "cardName": "Dratatin",
-    "avgPrice": 4.07
+    "avgPrice": 4.5
   },
   "SSP212": {
     "series": "SSP",
     "number": "212",
     "cardName": "Parecool",
-    "avgPrice": 4.7
+    "avgPrice": 4.78
   },
   "SSP213": {
     "series": "SSP",
     "number": "213",
     "cardName": "Kecleon",
-    "avgPrice": 4.56
+    "avgPrice": 4.75
   },
   "SSP214": {
     "series": "SSP",
     "number": "214",
     "cardName": "Gueriaigle",
-    "avgPrice": 5.66
+    "avgPrice": 5.97
   },
   "SSP215": {
     "series": "SSP",
     "number": "215",
     "cardName": "Fermite ex",
-    "avgPrice": 1.77
+    "avgPrice": 1.36
   },
   "SSP216": {
     "series": "SSP",
@@ -5409,19 +5907,43 @@
     "series": "SSP",
     "number": "217",
     "cardName": "Milobellus ex",
-    "avgPrice": 3.99
+    "avgPrice": 3.84
   },
   "SSP218": {
     "series": "SSP",
     "number": "218",
     "cardName": "Kyurem Noir ex",
-    "avgPrice": 3.83
+    "avgPrice": 3.99
   },
   "SSP223": {
     "series": "SSP",
     "number": "223",
     "cardName": "Trioxhydre ex",
     "avgPrice": 3.37
+  },
+  "SSP224": {
+    "series": "SSP",
+    "number": "224",
+    "cardName": "Pondralugon ex",
+    "avgPrice": 1.55
+  },
+  "SSP225": {
+    "series": "SSP",
+    "number": "225",
+    "cardName": "Noadkoko d'Alola ex",
+    "avgPrice": 3.96
+  },
+  "SSP226": {
+    "series": "SSP",
+    "number": "226",
+    "cardName": "Nigirigon ex",
+    "avgPrice": 2.11
+  },
+  "SSP227": {
+    "series": "SSP",
+    "number": "227",
+    "cardName": "Monaflèmit ex",
+    "avgPrice": 1.9
   },
   "SSP228": {
     "series": "SSP",
@@ -5433,37 +5955,37 @@
     "series": "SSP",
     "number": "231",
     "cardName": "Dracéna",
-    "avgPrice": 1.79
+    "avgPrice": 1.6
   },
   "SSP232": {
     "series": "SSP",
     "number": "232",
     "cardName": "Irido",
-    "avgPrice": 1.9
+    "avgPrice": 1.95
   },
   "SSP234": {
     "series": "SSP",
     "number": "234",
     "cardName": "Charme d'Atalante",
-    "avgPrice": 4.36
+    "avgPrice": 4.0
   },
   "SSP235": {
     "series": "SSP",
     "number": "235",
     "cardName": "Surfeur",
-    "avgPrice": 1.36
+    "avgPrice": 1.27
   },
   "SSP240": {
     "series": "SSP",
     "number": "240",
-    "cardName": "",
-    "avgPrice": 6.27
+    "cardName": "Trioxhydre ex",
+    "avgPrice": 44.34
   },
   "SSP251": {
     "series": "SSP",
     "number": "251",
     "cardName": "Civière Nocturne",
-    "avgPrice": 10.61
+    "avgPrice": 9.97
   },
   "SVI045": {
     "series": "SVI",
@@ -5615,6 +6137,12 @@
     "cardName": "Léviator ex",
     "avgPrice": 6.68
   },
+  "SVI226": {
+    "series": "SVI",
+    "number": "226",
+    "cardName": "Magnézone ex",
+    "avgPrice": 2.06
+  },
   "SVI228": {
     "series": "SVI",
     "number": "228",
@@ -5637,13 +6165,13 @@
     "series": "SVI",
     "number": "234",
     "cardName": "Fragroin ex",
-    "avgPrice": 2.83
+    "avgPrice": 2.58
   },
   "SVI238": {
     "series": "SVI",
     "number": "238",
     "cardName": "Mimosa",
-    "avgPrice": 5.25
+    "avgPrice": 5.3
   },
   "SVI243": {
     "series": "SVI",
@@ -5655,7 +6183,7 @@
     "series": "SVI",
     "number": "244",
     "cardName": "Miraidon ex",
-    "avgPrice": 31.93
+    "avgPrice": 29.75
   },
   "SVI246": {
     "series": "SVI",
@@ -5667,7 +6195,7 @@
     "series": "SVI",
     "number": "247",
     "cardName": "Koraidon ex",
-    "avgPrice": 30.0
+    "avgPrice": 28.74
   },
   "SVI248": {
     "series": "SVI",
@@ -5681,11 +6209,23 @@
     "cardName": "Jacq",
     "avgPrice": 4.75
   },
+  "SVI253": {
+    "series": "SVI",
+    "number": "253",
+    "cardName": "Miraidon ex",
+    "avgPrice": 9.69
+  },
   "SVI256": {
     "series": "SVI",
     "number": "256",
     "cardName": "Super Bonbon",
     "avgPrice": 6.48
+  },
+  "SVI258": {
+    "series": "SVI",
+    "number": "258",
+    "cardName": "Énergie Combat de base",
+    "avgPrice": 5.33
   },
   "SVP001": {
     "series": "SVP",
@@ -5763,7 +6303,7 @@
     "series": "SVP",
     "number": "014",
     "cardName": "Koraidon",
-    "avgPrice": 9.49
+    "avgPrice": 9.0
   },
   "SVP015": {
     "series": "SVP",
@@ -5852,8 +6392,8 @@
   "SVP031": {
     "series": "SVP",
     "number": "031",
-    "cardName": "",
-    "avgPrice": 4.95
+    "cardName": "Forgelina ex",
+    "avgPrice": 4.97
   },
   "SVP034": {
     "series": "SVP",
@@ -5882,8 +6422,8 @@
   "SVP038": {
     "series": "SVP",
     "number": "038",
-    "cardName": "",
-    "avgPrice": 6.27
+    "cardName": "Togekiss",
+    "avgPrice": 8.85
   },
   "SVP039": {
     "series": "SVP",
@@ -5973,7 +6513,7 @@
     "series": "SVP",
     "number": "056",
     "cardName": "Dracaufeu ex",
-    "avgPrice": 4.91
+    "avgPrice": 4.97
   },
   "SVP057": {
     "series": "SVP",
@@ -6083,6 +6623,18 @@
     "cardName": "Poussacha",
     "avgPrice": 1.0
   },
+  "SVP083": {
+    "series": "SVP",
+    "number": "083",
+    "cardName": "Canarbello",
+    "avgPrice": 0.6
+  },
+  "SVP087": {
+    "series": "SVP",
+    "number": "087",
+    "cardName": "Poussacha ex",
+    "avgPrice": 0.98
+  },
   "SVP097": {
     "series": "SVP",
     "number": "097",
@@ -6118,6 +6670,12 @@
     "number": "123",
     "cardName": "Ogerpon Masque Turquoise",
     "avgPrice": 1.82
+  },
+  "SVP125": {
+    "series": "SVP",
+    "number": "125",
+    "cardName": "Carmadura ex",
+    "avgPrice": 1.19
   },
   "SVP126": {
     "series": "SVP",
@@ -6237,19 +6795,25 @@
     "series": "SVP",
     "number": "173",
     "cardName": "Évoli",
-    "avgPrice": 11.3
+    "avgPrice": 12.62
+  },
+  "SVP174": {
+    "series": "SVP",
+    "number": "174",
+    "cardName": "Évoli ex",
+    "avgPrice": 14.0
   },
   "SVP179": {
     "series": "SVP",
     "number": "179",
     "cardName": "Xerneas ex",
-    "avgPrice": 0.86
+    "avgPrice": 0.77
   },
   "SVP180": {
     "series": "SVP",
     "number": "180",
     "cardName": "Dialga ex",
-    "avgPrice": 0.96
+    "avgPrice": 0.91
   },
   "SVP187": {
     "series": "SVP",
@@ -6261,13 +6825,19 @@
     "series": "SVP",
     "number": "189",
     "cardName": "Zorua de N",
-    "avgPrice": 4.99
+    "avgPrice": 5.0
   },
   "SVP194": {
     "series": "SVP",
     "number": "194",
     "cardName": "Ampibidou ex de Mashynn",
     "avgPrice": 1.0
+  },
+  "SVP196": {
+    "series": "SVP",
+    "number": "196",
+    "cardName": "Dracaufeu ex",
+    "avgPrice": 1.48
   },
   "SVP197": {
     "series": "SVP",
@@ -6285,19 +6855,37 @@
     "series": "SVP",
     "number": "204",
     "cardName": "Carchacrok ex de Cynthia",
-    "avgPrice": 2.2
+    "avgPrice": 2.37
+  },
+  "SVP205": {
+    "series": "SVP",
+    "number": "205",
+    "cardName": "Mewtwo ex de la Team Rocket",
+    "avgPrice": 0.94
   },
   "SVP208": {
     "series": "SVP",
     "number": "208",
     "cardName": "Victini",
-    "avgPrice": 2.22
+    "avgPrice": 2.6
+  },
+  "SVP209": {
+    "series": "SVP",
+    "number": "209",
+    "cardName": "Boréas",
+    "avgPrice": 1.0
   },
   "SVP211": {
     "series": "SVP",
     "number": "211",
     "cardName": "Sidérella",
-    "avgPrice": 0.4
+    "avgPrice": 0.35
+  },
+  "SVP212": {
+    "series": "SVP",
+    "number": "212",
+    "cardName": "Symbios",
+    "avgPrice": 0.31
   },
   "SVP220": {
     "series": "SVP",
@@ -6311,6 +6899,12 @@
     "cardName": "Recherches Professorales - Professeure Magnolia",
     "avgPrice": 2.37
   },
+  "SWSH023": {
+    "series": "SWSH",
+    "number": "023",
+    "cardName": "Luxray",
+    "avgPrice": 100.0
+  },
   "SWSH041": {
     "series": "SWSH",
     "number": "041",
@@ -6322,6 +6916,12 @@
     "number": "042",
     "cardName": "Évoli",
     "avgPrice": 1.88
+  },
+  "SWSH069": {
+    "series": "SWSH",
+    "number": "069",
+    "cardName": "Lugia",
+    "avgPrice": 117.22
   },
   "SWSH105": {
     "series": "SWSH",
@@ -6340,6 +6940,12 @@
     "number": "153",
     "cardName": "",
     "avgPrice": 1.21
+  },
+  "SWSH178": {
+    "series": "SWSH",
+    "number": "178",
+    "cardName": "Recherches Professorales - Professeur Willow",
+    "avgPrice": 4.75
   },
   "SWSH182": {
     "series": "SWSH",
@@ -6375,13 +6981,13 @@
     "series": "SWSH",
     "number": "219",
     "cardName": "Fulgudog V",
-    "avgPrice": 0.34
+    "avgPrice": 0.3
   },
   "SWSH223": {
     "series": "SWSH",
     "number": "223",
     "cardName": "Mewtwo V",
-    "avgPrice": 6.26
+    "avgPrice": 5.93
   },
   "SWSH224": {
     "series": "SWSH",
@@ -6393,19 +6999,19 @@
     "series": "SWSH",
     "number": "225",
     "cardName": "Noadkoko de Alola V",
-    "avgPrice": 0.22
+    "avgPrice": 0.14
   },
   "SWSH226": {
     "series": "SWSH",
     "number": "226",
     "cardName": "Capitaine d'équipe Spark",
-    "avgPrice": 2.6
+    "avgPrice": 2.96
   },
   "SWSH227": {
     "series": "SWSH",
     "number": "227",
     "cardName": "Capitaine d'équipe Blanche",
-    "avgPrice": 4.49
+    "avgPrice": 4.57
   },
   "SWSH228": {
     "series": "SWSH",
@@ -6417,19 +7023,19 @@
     "series": "SWSH",
     "number": "229",
     "cardName": "Mewtwo V",
-    "avgPrice": 5.0
+    "avgPrice": 4.87
   },
   "SWSH230": {
     "series": "SWSH",
     "number": "230",
     "cardName": "Radiant Eevee",
-    "avgPrice": 28.82
+    "avgPrice": 22.0
   },
   "SWSH231": {
     "series": "SWSH",
     "number": "231",
     "cardName": "Bulbizarre",
-    "avgPrice": 2.92
+    "avgPrice": 2.73
   },
   "SWSH232": {
     "series": "SWSH",
@@ -6447,19 +7053,19 @@
     "series": "SWSH",
     "number": "234",
     "cardName": "Pikachu",
-    "avgPrice": 0.65
+    "avgPrice": 0.93
   },
   "SWSH235": {
     "series": "SWSH",
     "number": "235",
     "cardName": "Dracolosse V",
-    "avgPrice": 4.9
+    "avgPrice": 4.88
   },
   "SWSH236": {
     "series": "SWSH",
     "number": "236",
     "cardName": "Dracolosse VSTAR",
-    "avgPrice": 4.81
+    "avgPrice": 4.91
   },
   "SWSH237": {
     "series": "SWSH",
@@ -6495,7 +7101,7 @@
     "series": "SWSH",
     "number": "285",
     "cardName": "Pikachu V",
-    "avgPrice": 1.33
+    "avgPrice": 1.31
   },
   "TEF038": {
     "series": "TEF",
@@ -6518,8 +7124,8 @@
   "TEF154": {
     "series": "TEF",
     "number": "154",
-    "cardName": "",
-    "avgPrice": 6.27
+    "cardName": "Ceinture Maximale",
+    "avgPrice": 0.46
   },
   "TEF166": {
     "series": "TEF",
@@ -6532,6 +7138,12 @@
     "number": "168",
     "cardName": "Frissonille",
     "avgPrice": 4.61
+  },
+  "TEF169": {
+    "series": "TEF",
+    "number": "169",
+    "cardName": "Chrysapile",
+    "avgPrice": 4.37
   },
   "TEF171": {
     "series": "TEF",
@@ -6549,7 +7161,7 @@
     "series": "TEF",
     "number": "173",
     "cardName": "Relicanth",
-    "avgPrice": 8.5
+    "avgPrice": 9.75
   },
   "TEF174": {
     "series": "TEF",
@@ -6567,13 +7179,19 @@
     "series": "TEF",
     "number": "179",
     "cardName": "Meltan",
-    "avgPrice": 4.68
+    "avgPrice": 3.88
   },
   "TEF180": {
     "series": "TEF",
     "number": "180",
     "cardName": "Excelangue",
     "avgPrice": 10.0
+  },
+  "TEF191": {
+    "series": "TEF",
+    "number": "191",
+    "cardName": "Chef-de-Fer ex",
+    "avgPrice": 2.46
   },
   "TEF195": {
     "series": "TEF",
@@ -6651,7 +7269,7 @@
     "series": "TWM",
     "number": "164",
     "cardName": "Orthèse de Survie",
-    "avgPrice": 0.5
+    "avgPrice": 0.49
   },
   "TWM165": {
     "series": "TWM",
@@ -6693,7 +7311,7 @@
     "series": "TWM",
     "number": "178",
     "cardName": "Zapétrel",
-    "avgPrice": 4.0
+    "avgPrice": 3.86
   },
   "TWM180": {
     "series": "TWM",
@@ -6711,7 +7329,7 @@
     "series": "TWM",
     "number": "184",
     "cardName": "Galegon",
-    "avgPrice": 3.12
+    "avgPrice": 2.97
   },
   "TWM187": {
     "series": "TWM",
@@ -6731,6 +7349,12 @@
     "cardName": "Théffroyable ex",
     "avgPrice": 1.54
   },
+  "TWM190": {
+    "series": "TWM",
+    "number": "190",
+    "cardName": "Ogerpon Masque Turquoise ex",
+    "avgPrice": 2.98
+  },
   "TWM191": {
     "series": "TWM",
     "number": "191",
@@ -6748,6 +7372,12 @@
     "number": "195",
     "cardName": "Luxray ex",
     "avgPrice": 3.16
+  },
+  "TWM198": {
+    "series": "TWM",
+    "number": "198",
+    "cardName": "Amphinobi ex",
+    "avgPrice": 5.47
   },
   "TWM199": {
     "series": "TWM",
@@ -6771,7 +7401,7 @@
     "series": "TWM",
     "number": "209",
     "cardName": "Lithia",
-    "avgPrice": 2.91
+    "avgPrice": 2.9
   },
   "TWM210": {
     "series": "TWM",
@@ -6790,6 +7420,12 @@
     "number": "223",
     "cardName": "Poffin Copain-Copain",
     "avgPrice": 13.72
+  },
+  "VIV138": {
+    "series": "VIV",
+    "number": "138",
+    "cardName": "Rayquaza",
+    "avgPrice": 36.6
   },
   "VIV166": {
     "series": "VIV",
@@ -6812,14 +7448,14 @@
   "WHT020": {
     "series": "WHT",
     "number": "020",
-    "cardName": "",
-    "avgPrice": 6.0
+    "cardName": "Reshiram ex",
+    "avgPrice": 0.19
   },
   "WHT030": {
     "series": "WHT",
     "number": "030",
     "cardName": "Keldeo ex",
-    "avgPrice": 0.13
+    "avgPrice": 0.12
   },
   "WHT045": {
     "series": "WHT",
@@ -6831,43 +7467,43 @@
     "series": "WHT",
     "number": "067",
     "cardName": "Trioxhydre ex",
-    "avgPrice": 0.23
+    "avgPrice": 0.12
   },
   "WHT077": {
     "series": "WHT",
     "number": "077",
     "cardName": "Frison ex",
-    "avgPrice": 0.13
+    "avgPrice": 0.09
   },
   "WHT087": {
     "series": "WHT",
     "number": "087",
     "cardName": "Larveyette",
-    "avgPrice": 8.75
+    "avgPrice": 8.69
   },
   "WHT088": {
     "series": "WHT",
     "number": "088",
     "cardName": "Couverdure",
-    "avgPrice": 6.45
+    "avgPrice": 6.5
   },
   "WHT089": {
     "series": "WHT",
     "number": "089",
     "cardName": "Manternel",
-    "avgPrice": 15.74
+    "avgPrice": 16.0
   },
   "WHT090": {
     "series": "WHT",
     "number": "090",
     "cardName": "Doudouvet",
-    "avgPrice": 5.61
+    "avgPrice": 5.5
   },
   "WHT091": {
     "series": "WHT",
     "number": "091",
     "cardName": "Vivaldaim",
-    "avgPrice": 12.67
+    "avgPrice": 12.95
   },
   "WHT092": {
     "series": "WHT",
@@ -6879,7 +7515,7 @@
     "series": "WHT",
     "number": "093",
     "cardName": "Escargaume",
-    "avgPrice": 4.99
+    "avgPrice": 5.59
   },
   "WHT094": {
     "series": "WHT",
@@ -6891,31 +7527,31 @@
     "series": "WHT",
     "number": "095",
     "cardName": "Viridium",
-    "avgPrice": 33.5
+    "avgPrice": 35.66
   },
   "WHT096": {
     "series": "WHT",
     "number": "096",
     "cardName": "Gruikui",
-    "avgPrice": 14.72
+    "avgPrice": 14.22
   },
   "WHT097": {
     "series": "WHT",
     "number": "097",
     "cardName": "Grotichon",
-    "avgPrice": 9.12
+    "avgPrice": 9.0
   },
   "WHT098": {
     "series": "WHT",
     "number": "098",
     "cardName": "Roitiflam",
-    "avgPrice": 27.47
+    "avgPrice": 27.17
   },
   "WHT099": {
     "series": "WHT",
     "number": "099",
     "cardName": "Flamajou",
-    "avgPrice": 7.0
+    "avgPrice": 6.49
   },
   "WHT100": {
     "series": "WHT",
@@ -6927,19 +7563,19 @@
     "series": "WHT",
     "number": "101",
     "cardName": "Funécire",
-    "avgPrice": 7.11
+    "avgPrice": 6.88
   },
   "WHT102": {
     "series": "WHT",
     "number": "102",
     "cardName": "Mélancolux",
-    "avgPrice": 7.75
+    "avgPrice": 7.72
   },
   "WHT103": {
     "series": "WHT",
     "number": "103",
     "cardName": "Lugulabre",
-    "avgPrice": 38.5
+    "avgPrice": 37.0
   },
   "WHT104": {
     "series": "WHT",
@@ -6951,55 +7587,55 @@
     "series": "WHT",
     "number": "105",
     "cardName": "Moustillon",
-    "avgPrice": 22.49
+    "avgPrice": 24.12
   },
   "WHT106": {
     "series": "WHT",
     "number": "106",
     "cardName": "Mateloutre",
-    "avgPrice": 9.07
+    "avgPrice": 9.1
   },
   "WHT107": {
     "series": "WHT",
     "number": "107",
     "cardName": "Clamiral",
-    "avgPrice": 34.5
+    "avgPrice": 31.75
   },
   "WHT108": {
     "series": "WHT",
     "number": "108",
     "cardName": "Bargantua",
-    "avgPrice": 5.45
+    "avgPrice": 4.34
   },
   "WHT109": {
     "series": "WHT",
     "number": "109",
     "cardName": "Couaneton",
-    "avgPrice": 9.88
+    "avgPrice": 9.87
   },
   "WHT110": {
     "series": "WHT",
     "number": "110",
     "cardName": "Lakmécygne",
-    "avgPrice": 12.83
+    "avgPrice": 13.62
   },
   "WHT111": {
     "series": "WHT",
     "number": "111",
     "cardName": "Sorbébé",
-    "avgPrice": 7.75
+    "avgPrice": 7.88
   },
   "WHT112": {
     "series": "WHT",
     "number": "112",
     "cardName": "Sorboul",
-    "avgPrice": 5.74
+    "avgPrice": 6.1
   },
   "WHT113": {
     "series": "WHT",
     "number": "113",
     "cardName": "Sorbouboul",
-    "avgPrice": 46.62
+    "avgPrice": 45.48
   },
   "WHT114": {
     "series": "WHT",
@@ -7011,13 +7647,13 @@
     "series": "WHT",
     "number": "115",
     "cardName": "Zéblitz",
-    "avgPrice": 19.99
+    "avgPrice": 20.0
   },
   "WHT116": {
     "series": "WHT",
     "number": "116",
     "cardName": "Statitik",
-    "avgPrice": 10.49
+    "avgPrice": 11.11
   },
   "WHT117": {
     "series": "WHT",
@@ -7029,115 +7665,115 @@
     "series": "WHT",
     "number": "118",
     "cardName": "Limonde",
-    "avgPrice": 4.89
+    "avgPrice": 4.46
   },
   "WHT119": {
     "series": "WHT",
     "number": "119",
     "cardName": "Chovsourir",
-    "avgPrice": 5.96
+    "avgPrice": 6.24
   },
   "WHT120": {
     "series": "WHT",
     "number": "120",
     "cardName": "Rhinolove",
-    "avgPrice": 5.56
+    "avgPrice": 7.82
   },
   "WHT121": {
     "series": "WHT",
     "number": "121",
     "cardName": "Cryptéro",
-    "avgPrice": 5.81
+    "avgPrice": 5.86
   },
   "WHT122": {
     "series": "WHT",
     "number": "122",
-    "cardName": "",
-    "avgPrice": 5.01
+    "cardName": "Tutafeh",
+    "avgPrice": 6.0
   },
   "WHT124": {
     "series": "WHT",
     "number": "124",
     "cardName": "Scrutella",
-    "avgPrice": 8.62
+    "avgPrice": 8.75
   },
   "WHT125": {
     "series": "WHT",
     "number": "125",
-    "cardName": "",
-    "avgPrice": 8.0
+    "cardName": "Mesmérella",
+    "avgPrice": 7.87
   },
   "WHT126": {
     "series": "WHT",
     "number": "126",
     "cardName": "Viskuse",
-    "avgPrice": 7.75
+    "avgPrice": 7.67
   },
   "WHT127": {
     "series": "WHT",
     "number": "127",
     "cardName": "Nodulithe",
-    "avgPrice": 5.98
+    "avgPrice": 5.96
   },
   "WHT128": {
     "series": "WHT",
     "number": "128",
     "cardName": "Géolithe",
-    "avgPrice": 4.99
+    "avgPrice": 4.86
   },
   "WHT129": {
     "series": "WHT",
     "number": "129",
     "cardName": "Gigalithe",
-    "avgPrice": 19.49
+    "avgPrice": 19.38
   },
   "WHT130": {
     "series": "WHT",
     "number": "130",
     "cardName": "Karaclée",
-    "avgPrice": 9.99
+    "avgPrice": 9.74
   },
   "WHT131": {
     "series": "WHT",
     "number": "131",
     "cardName": "Arkéapti",
-    "avgPrice": 6.3
+    "avgPrice": 6.92
   },
   "WHT132": {
     "series": "WHT",
     "number": "132",
     "cardName": "Aéroptéryx",
-    "avgPrice": 7.1
+    "avgPrice": 7.0
   },
   "WHT133": {
     "series": "WHT",
     "number": "133",
     "cardName": "Kungfouine",
-    "avgPrice": 7.37
+    "avgPrice": 7.88
   },
   "WHT134": {
     "series": "WHT",
     "number": "134",
     "cardName": "Shaofouine",
-    "avgPrice": 8.94
+    "avgPrice": 8.85
   },
   "WHT135": {
     "series": "WHT",
     "number": "135",
     "cardName": "Terrakium",
-    "avgPrice": 66.0
+    "avgPrice": 65.97
   },
   "WHT136": {
     "series": "WHT",
     "number": "136",
     "cardName": "Chacripan",
-    "avgPrice": 9.23
+    "avgPrice": 9.48
   },
   "WHT137": {
     "series": "WHT",
     "number": "137",
     "cardName": "Léopardus",
-    "avgPrice": 47.75
+    "avgPrice": 48.98
   },
   "WHT138": {
     "series": "WHT",
@@ -7149,49 +7785,49 @@
     "series": "WHT",
     "number": "139",
     "cardName": "Baggaïd",
-    "avgPrice": 13.25
+    "avgPrice": 13.5
   },
   "WHT140": {
     "series": "WHT",
     "number": "140",
     "cardName": "Miamiasme",
-    "avgPrice": 5.57
+    "avgPrice": 5.52
   },
   "WHT141": {
     "series": "WHT",
     "number": "141",
     "cardName": "Miasmax",
-    "avgPrice": 10.12
+    "avgPrice": 11.5
   },
   "WHT142": {
     "series": "WHT",
     "number": "142",
     "cardName": "Zorua",
-    "avgPrice": 28.5
+    "avgPrice": 28.24
   },
   "WHT143": {
     "series": "WHT",
     "number": "143",
     "cardName": "Zoroark",
-    "avgPrice": 47.72
+    "avgPrice": 48.97
   },
   "WHT144": {
     "series": "WHT",
     "number": "144",
     "cardName": "Vostourno",
-    "avgPrice": 4.95
+    "avgPrice": 4.97
   },
   "WHT145": {
     "series": "WHT",
     "number": "145",
     "cardName": "Vaututrice",
-    "avgPrice": 5.0
+    "avgPrice": 5.25
   },
   "WHT146": {
     "series": "WHT",
     "number": "146",
     "cardName": "Solochi",
-    "avgPrice": 9.0
+    "avgPrice": 8.47
   },
   "WHT147": {
     "series": "WHT",
@@ -7203,55 +7839,55 @@
     "series": "WHT",
     "number": "148",
     "cardName": "Grindur",
-    "avgPrice": 5.48
+    "avgPrice": 5.45
   },
   "WHT149": {
     "series": "WHT",
     "number": "149",
     "cardName": "Noacier",
-    "avgPrice": 15.0
+    "avgPrice": 15.5
   },
   "WHT150": {
     "series": "WHT",
     "number": "150",
     "cardName": "Fermite",
-    "avgPrice": 5.55
+    "avgPrice": 5.92
   },
   "WHT151": {
     "series": "WHT",
     "number": "151",
     "cardName": "Drakkarmin",
-    "avgPrice": 13.96
+    "avgPrice": 12.25
   },
   "WHT152": {
     "series": "WHT",
     "number": "152",
     "cardName": "Ratentif",
-    "avgPrice": 6.58
+    "avgPrice": 7.0
   },
   "WHT153": {
     "series": "WHT",
     "number": "153",
     "cardName": "Miradar",
-    "avgPrice": 6.57
+    "avgPrice": 6.66
   },
   "WHT154": {
     "series": "WHT",
     "number": "154",
     "cardName": "Ponchiot",
-    "avgPrice": 9.57
+    "avgPrice": 8.96
   },
   "WHT155": {
     "series": "WHT",
     "number": "155",
     "cardName": "Ponchien",
-    "avgPrice": 6.78
+    "avgPrice": 6.76
   },
   "WHT156": {
     "series": "WHT",
     "number": "156",
     "cardName": "Mastouffe",
-    "avgPrice": 20.99
+    "avgPrice": 19.75
   },
   "WHT157": {
     "series": "WHT",
@@ -7263,31 +7899,31 @@
     "series": "WHT",
     "number": "158",
     "cardName": "Reshiram ex",
-    "avgPrice": 2.99
+    "avgPrice": 2.94
   },
   "WHT159": {
     "series": "WHT",
     "number": "159",
     "cardName": "Keldeo ex",
-    "avgPrice": 1.15
+    "avgPrice": 1.0
   },
   "WHT160": {
     "series": "WHT",
     "number": "160",
     "cardName": "Moyade ex",
-    "avgPrice": 1.07
+    "avgPrice": 1.02
   },
   "WHT161": {
     "series": "WHT",
     "number": "161",
     "cardName": "Trioxhydre ex",
-    "avgPrice": 1.0
+    "avgPrice": 0.99
   },
   "WHT162": {
     "series": "WHT",
     "number": "162",
     "cardName": "Frison ex",
-    "avgPrice": 0.96
+    "avgPrice": 0.91
   },
   "WHT163": {
     "series": "WHT",
@@ -7299,162 +7935,654 @@
     "series": "WHT",
     "number": "164",
     "cardName": "Ludvina",
-    "avgPrice": 3.8
+    "avgPrice": 3.45
   },
   "WHT165": {
     "series": "WHT",
     "number": "165",
     "cardName": "Farfaduvet ex",
-    "avgPrice": 20.5
+    "avgPrice": 21.0
   },
   "WHT166": {
     "series": "WHT",
     "number": "166",
     "cardName": "Reshiram ex",
-    "avgPrice": 158.5
+    "avgPrice": 160.72
   },
   "WHT167": {
     "series": "WHT",
     "number": "167",
     "cardName": "Keldeo ex",
-    "avgPrice": 51.99
+    "avgPrice": 53.25
   },
   "WHT168": {
     "series": "WHT",
     "number": "168",
     "cardName": "Moyade ex",
-    "avgPrice": 22.47
+    "avgPrice": 22.49
   },
   "WHT169": {
     "series": "WHT",
     "number": "169",
     "cardName": "Trioxhydre ex",
-    "avgPrice": 58.97
+    "avgPrice": 58.48
   },
   "WHT170": {
     "series": "WHT",
     "number": "170",
     "cardName": "Frison ex",
-    "avgPrice": 19.2
+    "avgPrice": 14.75
   },
   "WHT171": {
     "series": "WHT",
     "number": "171",
     "cardName": "Ludvina",
-    "avgPrice": 29.29
+    "avgPrice": 29.99
   },
   "WHT172": {
     "series": "WHT",
     "number": "172",
     "cardName": "Victini",
-    "avgPrice": 271.25
+    "avgPrice": 276.25
   },
   "WHT173": {
     "series": "WHT",
     "number": "173",
-    "cardName": "",
+    "cardName": "Reshiram ex",
     "avgPrice": 286.25
   },
-  "ASC145": {
-    "series": "ASC",
-    "number": "145",
-    "cardName": "Registeel ex",
-    "avgPrice": 0.1
+  "DRI221": {
+    "series": "DRI",
+    "number": "221",
+    "cardName": "Aventure de Luth",
+    "avgPrice": 5.63
   },
-  "ASC149": {
-    "series": "ASC",
-    "number": "149",
-    "cardName": "Togedemaru ex",
+  "DRI222": {
+    "series": "DRI",
+    "number": "222",
+    "cardName": "Juge",
+    "avgPrice": 3.24
+  },
+  "DRI224": {
+    "series": "DRI",
+    "number": "224",
+    "cardName": "Ariane de la Team Rocket",
+    "avgPrice": 7.87
+  },
+  "DRI228": {
+    "series": "DRI",
+    "number": "228",
+    "cardName": "Yanmega ex",
+    "avgPrice": 49.67
+  },
+  "DRI230": {
+    "series": "DRI",
+    "number": "230",
+    "cardName": "Ho-Oh ex de Luth",
+    "avgPrice": 255.0
+  },
+  "DRI231": {
+    "series": "DRI",
+    "number": "231",
+    "cardName": "Mewtwo ex de la Team Rocket",
+    "avgPrice": 460.0
+  },
+  "DRI232": {
+    "series": "DRI",
+    "number": "232",
+    "cardName": "Carchacrok ex de Cynthia",
+    "avgPrice": 222.25
+  },
+  "DRI244": {
+    "series": "DRI",
+    "number": "244",
+    "cardName": "Levalendura",
+    "avgPrice": 27.12
+  },
+  "DRI238": {
+    "series": "DRI",
+    "number": "238",
+    "cardName": "Giovanni de la Team Rocket",
+    "avgPrice": 47.87
+  },
+  "DRI241": {
+    "series": "DRI",
+    "number": "241",
+    "cardName": "Carchacrok ex de Cynthia",
+    "avgPrice": 49.87
+  },
+  "MEW167": {
+    "series": "MEW",
+    "number": "167",
+    "cardName": "Herbizarre",
+    "avgPrice": 40.88
+  },
+  "MEW170": {
+    "series": "MEW",
+    "number": "170",
+    "cardName": "Carapuce",
+    "avgPrice": 54.86
+  },
+  "MEW171": {
+    "series": "MEW",
+    "number": "171",
+    "cardName": "Carabaffe",
+    "avgPrice": 49.24
+  },
+  "MEW178": {
+    "series": "MEW",
+    "number": "178",
+    "cardName": "Saquedeneu",
+    "avgPrice": 14.25
+  },
+  "MEW186": {
+    "series": "MEW",
+    "number": "186",
+    "cardName": "Feunard ex",
+    "avgPrice": 22.98
+  },
+  "MEW191": {
+    "series": "MEW",
+    "number": "191",
+    "cardName": "Lippoutou ex",
+    "avgPrice": 14.22
+  },
+  "MEW204": {
+    "series": "MEW",
+    "number": "204",
+    "cardName": "Charisme de Giovanni",
+    "avgPrice": 26.87
+  },
+  "JTG030": {
+    "series": "JTG",
+    "number": "030",
+    "cardName": "Reshiram ex",
     "avgPrice": 0.43
   },
-  "ASC257": {
-    "series": "ASC",
-    "number": "257",
-    "cardName": "Narica",
-    "avgPrice": 4.82
-  },
-  "ASC260": {
-    "series": "ASC",
-    "number": "260",
-    "cardName": "Trompette de Verre",
-    "avgPrice": 1.89
-  },
-  "ASC280": {
-    "series": "ASC",
-    "number": "280",
-    "cardName": "Mélofée ex de Lilie",
-    "avgPrice": 103.0
-  },
-  "ASC281": {
-    "series": "ASC",
-    "number": "281",
-    "cardName": "Mewtwo ex de la Team Rocket",
-    "avgPrice": 297.5
-  },
-  "ASC282": {
-    "series": "ASC",
-    "number": "282",
-    "cardName": "Mega Diancie ex",
-    "avgPrice": 50.48
-  },
-  "ASC283": {
-    "series": "ASC",
-    "number": "283",
-    "cardName": "Mega Brutalibré ex",
-    "avgPrice": 57.5
-  },
-  "ASC284": {
-    "series": "ASC",
-    "number": "284",
-    "cardName": "Mega Ectoplasma ex",
-    "avgPrice": 467.5
-  },
-  "ASC285": {
-    "series": "ASC",
-    "number": "285",
-    "cardName": "Mega Baggaïd ex",
-    "avgPrice": 46.94
-  },
-  "ASC286": {
-    "series": "ASC",
-    "number": "286",
-    "cardName": "Zoroark ex de N",
-    "avgPrice": 107.98
-  },
-  "ASC290": {
-    "series": "ASC",
-    "number": "290",
-    "cardName": "Mega Dracolosse ex",
-    "avgPrice": 314.73
-  },
-  "ASC291": {
-    "series": "ASC",
+  "SWSH291": {
+    "series": "SWSH",
     "number": "291",
-    "cardName": "Narica",
-    "avgPrice": 29.0
+    "cardName": "Lucario VSTAR",
+    "avgPrice": 13.5
   },
-  "ASC292": {
-    "series": "ASC",
-    "number": "292",
-    "cardName": "Esprit Combatif d'Iris",
-    "avgPrice": 39.0
+  "CRE160": {
+    "series": "CRE",
+    "number": "160",
+    "cardName": "Celebi V",
+    "avgPrice": 13.07
   },
-  "ASC293": {
-    "series": "ASC",
-    "number": "293",
-    "cardName": "Surfeur",
-    "avgPrice": 24.97
+  "CRE225": {
+    "series": "CRE",
+    "number": "225",
+    "cardName": "Corne Résonnante",
+    "avgPrice": 7.44
   },
-  "ASC294": {
-    "series": "ASC",
-    "number": "294",
-    "cardName": "Mega Dracaufeu Y ex",
-    "avgPrice": 371.12
+  "JTG094": {
+    "series": "JTG",
+    "number": "094",
+    "cardName": "Terraiste de Paldea ex",
+    "avgPrice": 0.3
   },
-  "ASC295": {
-    "series": "ASC",
-    "number": "295",
-    "cardName": "Mega Dracolosse ex",
-    "avgPrice": 346.67
+  "JTG098": {
+    "series": "JTG",
+    "number": "098",
+    "cardName": "Zoroark ex de N",
+    "avgPrice": 1.27
+  },
+  "JTG114": {
+    "series": "JTG",
+    "number": "114",
+    "cardName": "Drattak ex",
+    "avgPrice": 0.5
+  },
+  "BRS040": {
+    "series": "BRS",
+    "number": "040",
+    "cardName": "Luminéon V",
+    "avgPrice": 0.26
+  },
+  "BRSTG03": {
+    "series": "BRS",
+    "number": "TG03",
+    "cardName": "Octillery",
+    "avgPrice": 2.0
+  },
+  "BRS047": {
+    "series": "BRS",
+    "number": "047",
+    "cardName": "Élekable",
+    "avgPrice": 0.02
+  },
+  "ASR195": {
+    "series": "ASR",
+    "number": "195",
+    "cardName": "Archéduc de Hisui VSTAR",
+    "avgPrice": 9.01
+  },
+  "CRZ150": {
+    "series": "CRZ",
+    "number": "150",
+    "cardName": "Recherches Professorales - Professeur Sorbier",
+    "avgPrice": 3.54
+  },
+  "CRZ151": {
+    "series": "CRZ",
+    "number": "151",
+    "cardName": "Percupio",
+    "avgPrice": 3.98
+  },
+  "CRZGG19": {
+    "series": "CRZ",
+    "number": "GG19",
+    "cardName": "Altaria",
+    "avgPrice": 4.92
+  },
+  "BLK033": {
+    "series": "BLK",
+    "number": "033",
+    "cardName": "Fulguris",
+    "avgPrice": 0.02
+  },
+  "OBF022": {
+    "series": "OBF",
+    "number": "022",
+    "cardName": "Terracruel ex",
+    "avgPrice": 0.6
+  },
+  "OBF033": {
+    "series": "OBF",
+    "number": "033",
+    "cardName": "Victini ex",
+    "avgPrice": 1.44
+  },
+  "OBF082": {
+    "series": "OBF",
+    "number": "082",
+    "cardName": "Mélodelfe ex",
+    "avgPrice": 1.46
+  },
+  "OBF073": {
+    "series": "OBF",
+    "number": "073",
+    "cardName": "Pohmarmotte ex",
+    "avgPrice": 0.57
+  },
+  "OBF096": {
+    "series": "OBF",
+    "number": "096",
+    "cardName": "Apireine ex",
+    "avgPrice": 0.87
+  },
+  "OBF102": {
+    "series": "OBF",
+    "number": "102",
+    "cardName": "Tomberro ex",
+    "avgPrice": 1.0
+  },
+  "OBF120": {
+    "series": "OBF",
+    "number": "120",
+    "cardName": "Craparoi ex",
+    "avgPrice": 0.85
+  },
+  "OBF123": {
+    "series": "OBF",
+    "number": "123",
+    "cardName": "Floréclat ex",
+    "avgPrice": 0.93
+  },
+  "OBF124": {
+    "series": "OBF",
+    "number": "124",
+    "cardName": "Koraidon ex",
+    "avgPrice": 0.97
+  },
+  "OBF134": {
+    "series": "OBF",
+    "number": "134",
+    "cardName": "Démolosse ex",
+    "avgPrice": 1.0
+  },
+  "OBF153": {
+    "series": "OBF",
+    "number": "153",
+    "cardName": "Melmetal ex",
+    "avgPrice": 1.1
+  },
+  "OBF156": {
+    "series": "OBF",
+    "number": "156",
+    "cardName": "Vrombotor ex",
+    "avgPrice": 0.48
+  },
+  "OBF159": {
+    "series": "OBF",
+    "number": "159",
+    "cardName": "Dracolosse ex",
+    "avgPrice": 2.0
+  },
+  "OBF164": {
+    "series": "OBF",
+    "number": "164",
+    "cardName": "Roucarnage ex",
+    "avgPrice": 1.31
+  },
+  "OBF206": {
+    "series": "OBF",
+    "number": "206",
+    "cardName": "Vrombi",
+    "avgPrice": 1.72
+  },
+  "OBF207": {
+    "series": "OBF",
+    "number": "207",
+    "cardName": "Roucool",
+    "avgPrice": 5.46
+  },
+  "OBF209": {
+    "series": "OBF",
+    "number": "209",
+    "cardName": "Gourmelet",
+    "avgPrice": 2.97
+  },
+  "OBF212": {
+    "series": "OBF",
+    "number": "212",
+    "cardName": "Apireine ex",
+    "avgPrice": 1.56
+  },
+  "OBF218": {
+    "series": "OBF",
+    "number": "218",
+    "cardName": "Alisma",
+    "avgPrice": 0.99
+  },
+  "OBF219": {
+    "series": "OBF",
+    "number": "219",
+    "cardName": "Ortiga",
+    "avgPrice": 1.5
+  },
+  "OBF225": {
+    "series": "OBF",
+    "number": "225",
+    "cardName": "Roucarnage ex",
+    "avgPrice": 13.0
+  },
+  "OBF227": {
+    "series": "OBF",
+    "number": "227",
+    "cardName": "Popi",
+    "avgPrice": 2.81
+  },
+  "OBF230": {
+    "series": "OBF",
+    "number": "230",
+    "cardName": "Énergie Feu de base",
+    "avgPrice": 2.3
+  },
+  "SSP004": {
+    "series": "SSP",
+    "number": "004",
+    "cardName": "Fermite ex",
+    "avgPrice": 0.42
+  },
+  "SSP057": {
+    "series": "SSP",
+    "number": "057",
+    "cardName": "Pikachu ex",
+    "avgPrice": 3.99
+  },
+  "SSP076": {
+    "series": "SSP",
+    "number": "076",
+    "cardName": "Latias ex",
+    "avgPrice": 3.55
+  },
+  "SSP091": {
+    "series": "SSP",
+    "number": "091",
+    "cardName": "Trépassable ex",
+    "avgPrice": 0.39
+  },
+  "SSP106": {
+    "series": "SSP",
+    "number": "106",
+    "cardName": "Libégon ex",
+    "avgPrice": 0.52
+  },
+  "SSP119": {
+    "series": "SSP",
+    "number": "119",
+    "cardName": "Trioxhydre ex",
+    "avgPrice": 0.84
+  },
+  "SSP130": {
+    "series": "SSP",
+    "number": "130",
+    "cardName": "Pondralugon ex",
+    "avgPrice": 0.51
+  },
+  "SSP133": {
+    "series": "SSP",
+    "number": "133",
+    "cardName": "Noadkoko d'Alola ex",
+    "avgPrice": 0.59
+  },
+  "SSP147": {
+    "series": "SSP",
+    "number": "147",
+    "cardName": "Monaflèmit ex",
+    "avgPrice": 0.44
+  },
+  "SSP164": {
+    "series": "SSP",
+    "number": "164",
+    "cardName": "Mixeur Brillant",
+    "avgPrice": 0.95
+  },
+  "SSP176": {
+    "series": "SSP",
+    "number": "176",
+    "cardName": "Recherche d'Énergie Pro",
+    "avgPrice": 0.72
+  },
+  "SSP183": {
+    "series": "SSP",
+    "number": "183",
+    "cardName": "Casque Miracle",
+    "avgPrice": 0.45
+  },
+  "SSP186": {
+    "series": "SSP",
+    "number": "186",
+    "cardName": "Échange Combiné",
+    "avgPrice": 0.35
+  },
+  "SSP191": {
+    "series": "SSP",
+    "number": "191",
+    "cardName": "Énergie Enrichissante",
+    "avgPrice": 2.96
+  },
+  "SSP194": {
+    "series": "SSP",
+    "number": "194",
+    "cardName": "Lampignon",
+    "avgPrice": 4.24
+  },
+  "SSP195": {
+    "series": "SSP",
+    "number": "195",
+    "cardName": "Morphéo Forme Solaire",
+    "avgPrice": 6.0
+  },
+  "SSP201": {
+    "series": "SSP",
+    "number": "201",
+    "cardName": "Balbalèze",
+    "avgPrice": 3.32
+  },
+  "SSP202": {
+    "series": "SSP",
+    "number": "202",
+    "cardName": "Limonde",
+    "avgPrice": 1.75
+  },
+  "SSP205": {
+    "series": "SSP",
+    "number": "205",
+    "cardName": "Phanpy",
+    "avgPrice": 6.85
+  },
+  "SSP207": {
+    "series": "SSP",
+    "number": "207",
+    "cardName": "Poulpaf",
+    "avgPrice": 5.81
+  },
+  "SSP208": {
+    "series": "SSP",
+    "number": "208",
+    "cardName": "Triopikeur d'Alola",
+    "avgPrice": 3.93
+  },
+  "SSP219": {
+    "series": "SSP",
+    "number": "219",
+    "cardName": "Pikachu ex",
+    "avgPrice": 20.8
+  },
+  "SSP220": {
+    "series": "SSP",
+    "number": "220",
+    "cardName": "Latias ex",
+    "avgPrice": 6.0
+  },
+  "SSP221": {
+    "series": "SSP",
+    "number": "221",
+    "cardName": "Trépassable ex",
+    "avgPrice": 2.12
+  },
+  "SSP222": {
+    "series": "SSP",
+    "number": "222",
+    "cardName": "Libégon ex",
+    "avgPrice": 3.17
+  },
+  "SSP229": {
+    "series": "SSP",
+    "number": "229",
+    "cardName": "Esprit Vif de Lem",
+    "avgPrice": 1.96
+  },
+  "SSP230": {
+    "series": "SSP",
+    "number": "230",
+    "cardName": "Cyano",
+    "avgPrice": 2.42
+  },
+  "SSP233": {
+    "series": "SSP",
+    "number": "233",
+    "cardName": "Regard de Jasmine",
+    "avgPrice": 1.98
+  },
+  "SSP236": {
+    "series": "SSP",
+    "number": "236",
+    "cardName": "Fermite ex",
+    "avgPrice": 21.55
+  },
+  "SSP237": {
+    "series": "SSP",
+    "number": "237",
+    "cardName": "Milobellus ex",
+    "avgPrice": 168.75
+  },
+  "SSP238": {
+    "series": "SSP",
+    "number": "238",
+    "cardName": "Pikachu ex",
+    "avgPrice": 389.75
+  },
+  "SSP239": {
+    "series": "SSP",
+    "number": "239",
+    "cardName": "Latias ex",
+    "avgPrice": 163.75
+  },
+  "SSP241": {
+    "series": "SSP",
+    "number": "241",
+    "cardName": "Pondralugon ex",
+    "avgPrice": 24.12
+  },
+  "SSP242": {
+    "series": "SSP",
+    "number": "242",
+    "cardName": "Noadkoko d'Alola ex",
+    "avgPrice": 38.49
+  },
+  "SSP243": {
+    "series": "SSP",
+    "number": "243",
+    "cardName": "Esprit Vif de Lem",
+    "avgPrice": 14.87
+  },
+  "SSP244": {
+    "series": "SSP",
+    "number": "244",
+    "cardName": "Irido",
+    "avgPrice": 19.69
+  },
+  "SSP245": {
+    "series": "SSP",
+    "number": "245",
+    "cardName": "Regard de Jasmine",
+    "avgPrice": 25.48
+  },
+  "SSP246": {
+    "series": "SSP",
+    "number": "246",
+    "cardName": "Charme d'Atalante",
+    "avgPrice": 34.5
+  },
+  "SSP248": {
+    "series": "SSP",
+    "number": "248",
+    "cardName": "Pikachu ex",
+    "avgPrice": 70.97
+  },
+  "SSP247": {
+    "series": "SSP",
+    "number": "247",
+    "cardName": "Noadkoko d'Alola ex",
+    "avgPrice": 20.62
+  },
+  "SSP249": {
+    "series": "SSP",
+    "number": "249",
+    "cardName": "Rattrape-Riposte",
+    "avgPrice": 8.61
+  },
+  "SSP250": {
+    "series": "SSP",
+    "number": "250",
+    "cardName": "Montagne Gravité",
+    "avgPrice": 15.0
+  },
+  "SSP252": {
+    "series": "SSP",
+    "number": "252",
+    "cardName": "Énergie Propulsion",
+    "avgPrice": 9.88
+  },
+  "SVI240": {
+    "series": "SVI",
+    "number": "240",
+    "cardName": "Recherches Professorales - Professeure Olim",
+    "avgPrice": 3.1
   }
 }

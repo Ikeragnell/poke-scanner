@@ -1,6 +1,6 @@
 {
   "gridSize": 64,
-  "totalCards": 3350,
+  "totalCards": 3391,
   "series": [
     {
       "code": "ASC",
@@ -19,6 +19,12 @@
       "name": "Méga-Évolution",
       "cardCount": 66,
       "file": "card-hashes/card-hashes-MEG.json"
+    },
+    {
+      "code": "MEP",
+      "name": "Méga-Évolution Promos",
+      "cardCount": 44,
+      "file": "card-hashes/card-hashes-MEP.json"
     },
     {
       "code": "WHT",
@@ -119,7 +125,7 @@
     {
       "code": "SVP",
       "name": "Promos Écarlate et Violet",
-      "cardCount": 225,
+      "cardCount": 222,
       "file": "card-hashes/card-hashes-SVP.json"
     },
     {
@@ -131,7 +137,7 @@
     {
       "code": "SIT",
       "name": "Tempête Argentée",
-      "cardCount": 101,
+      "cardCount": 103,
       "file": "card-hashes/card-hashes-SIT.json"
     },
     {
@@ -167,7 +173,7 @@
     {
       "code": "CEL",
       "name": "Célébrations",
-      "cardCount": 33,
+      "cardCount": 32,
       "file": "card-hashes/card-hashes-CEL.json"
     },
     {
@@ -191,13 +197,13 @@
     {
       "code": "SHF",
       "name": "Destinées Radieuses",
-      "cardCount": 149,
+      "cardCount": 148,
       "file": "card-hashes/card-hashes-SHF.json"
     },
     {
       "code": "VIV",
       "name": "Voltage Éclatant",
-      "cardCount": 61,
+      "cardCount": 62,
       "file": "card-hashes/card-hashes-VIV.json"
     },
     {
@@ -227,7 +233,7 @@
     {
       "code": "SWSH",
       "name": "Promos Épée et Bouclier",
-      "cardCount": 307,
+      "cardCount": 306,
       "file": "card-hashes/card-hashes-SWSH.json"
     }
   ]
